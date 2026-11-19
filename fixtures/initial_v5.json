@@ -1,0 +1,1907 @@
+[
+  {
+    "model": "curriculum.link",
+    "pk": 1,
+    "fields": {
+      "url": "https://docs.scipy.org/doc/scipy/tutorial/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 2,
+    "fields": {
+      "url": "https://www.openintro.org/book/os/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 3,
+    "fields": {
+      "url": "https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 4,
+    "fields": {
+      "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 5,
+    "fields": {
+      "url": "https://pandas.pydata.org/docs/user_guide/basics.html#descriptive-statistics"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 6,
+    "fields": {
+      "url": "https://www.statsmodels.org/stable/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 7,
+    "fields": {
+      "url": "https://www.statsmodels.org/stable/tsa.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 8,
+    "fields": {
+      "url": "https://lobsterdata.com/info/DataSamples.php"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 9,
+    "fields": {
+      "url": "https://lobsterdata.com/info/DataStructure.php"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 10,
+    "fields": {
+      "url": "https://pandas.pydata.org/docs/user_guide/window.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 11,
+    "fields": {
+      "url": "https://matplotlib.org/stable/tutorials/index.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 12,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/linear_model.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 13,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/supervised_learning.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 14,
+    "fields": {
+      "url": "https://xgboost.readthedocs.io/en/stable/python/python_intro.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 15,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 16,
+    "fields": {
+      "url": "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shift.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 17,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 18,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 19,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/common_pitfalls.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 20,
+    "fields": {
+      "url": "https://mlfinlab.readthedocs.io/en/latest/cross_validation/cross_validation.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 21,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/permutation_importance.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 22,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 23,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 24,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 25,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 26,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 27,
+    "fields": {
+      "url": "https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 28,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 29,
+    "fields": {
+      "url": "https://jalammar.github.io/illustrated-transformer/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 30,
+    "fields": {
+      "url": "https://docs.scipy.org/doc/scipy/reference/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 31,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/calibration.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 32,
+    "fields": {
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 33,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 34,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/classification_threshold.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 35,
+    "fields": {
+      "url": "https://github.com/ranaroussi/quantstats"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 36,
+    "fields": {
+      "url": "https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 37,
+    "fields": {
+      "url": "https://www.sbert.net/docs/quickstart.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 38,
+    "fields": {
+      "url": "https://huggingface.co/learn/llm-course/chapter1/1"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 39,
+    "fields": {
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 40,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/compose.html#columntransformer-for-heterogeneous-data"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 41,
+    "fields": {
+      "url": "https://mlflow.org/docs/latest/ml/tracking/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 42,
+    "fields": {
+      "url": "https://www.statlearning.com/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 43,
+    "fields": {
+      "url": "https://developers.google.com/machine-learning/crash-course"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 44,
+    "fields": {
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 45,
+    "fields": {
+      "url": "https://numpy.org/doc/stable/reference/routines.statistics.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 46,
+    "fields": {
+      "url": "https://arxiv.org/abs/1011.6402"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 47,
+    "fields": {
+      "url": "https://otexts.com/fpp3/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 48,
+    "fields": {
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.acf.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 49,
+    "fields": {
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.adfuller.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 50,
+    "fields": {
+      "url": "https://php.lobsterdata.com/info/DataStructure.php"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 51,
+    "fields": {
+      "url": "https://php.lobsterdata.com/info/DataSamples.php"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 52,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/ensemble.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 53,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 54,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/modules/compose.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 55,
+    "fields": {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/mafi.12413"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 56,
+    "fields": {
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 57,
+    "fields": {
+      "url": "https://docs.pytorch.org/docs/stable/generated/torch.nn.GRU.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 58,
+    "fields": {
+      "url": "https://docs.pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 59,
+    "fields": {
+      "url": "https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 60,
+    "fields": {
+      "url": "https://www.sec.gov/search-filings"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 1,
+    "fields": {
+      "name": "Statistics for quantitative research",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 2,
+    "fields": {
+      "name": "Time series and market microstructure",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 3,
+    "fields": {
+      "name": "ML fundamentals for financial prediction",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 4,
+    "fields": {
+      "name": "Time-series validation and leakage prevention",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 5,
+    "fields": {
+      "name": "LOB feature research",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 6,
+    "fields": {
+      "name": "PyTorch for quantitative models",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 7,
+    "fields": {
+      "name": "Sequence models and Transformers",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 8,
+    "fields": {
+      "name": "Research rigor and statistical significance",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 9,
+    "fields": {
+      "name": "Trading signal construction",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 10,
+    "fields": {
+      "name": "Realistic event-driven backtesting",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 11,
+    "fields": {
+      "name": "LLMs and AI for quant research",
+      "description": ""
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 12,
+    "fields": {
+      "name": "Publication and interview preparation",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 1,
+    "fields": {
+      "name": "AI Quant Research: 12-Week Transition",
+      "description": "12 weeks, five 60-minute daily lessons per week (Monday–Friday equivalent): a practical 60-hour curriculum in statistics, order-book modeling, time-series validation, PyTorch, trading simulation, and evidence-based quantitative ML research. Each topic provides detailed HTML lessons, worked examples, practice exercises, and curated sources.",
+      "duration": 12,
+      "unit": "week"
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 1,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 1,
+      "title": "Statistics for quantitative research",
+      "deliverable": "Notebook: statistical analysis of returns and significance tests",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 2,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 2,
+      "title": "Time series and market microstructure",
+      "deliverable": "Reusable market microstructure feature library",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 3,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 3,
+      "title": "ML fundamentals for financial prediction",
+      "deliverable": "First out-of-sample classification benchmark",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 4,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 4,
+      "title": "Time-series validation and leakage prevention",
+      "deliverable": "Leakage-aware research and evaluation pipeline",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 5,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 5,
+      "title": "LOB feature research",
+      "deliverable": "Feature-research report with stable and unstable signals",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 6,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 6,
+      "title": "PyTorch for quantitative models",
+      "deliverable": "Reproducible PyTorch training pipeline",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 7,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 7,
+      "title": "Sequence models and Transformers",
+      "deliverable": "Sequence-model benchmark, including inference latency",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 8,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 8,
+      "title": "Research rigor and statistical significance",
+      "deliverable": "Research memo: which results survive rigorous evaluation?",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 9,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 9,
+      "title": "Trading signal construction",
+      "deliverable": "Signal policy with documented assumptions",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 10,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 10,
+      "title": "Realistic event-driven backtesting",
+      "deliverable": "Trading-cost and sensitivity report",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 11,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 11,
+      "title": "LLMs and AI for quant research",
+      "deliverable": "Small multimodal research experiment, or a documented failure analysis",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 12,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 12,
+      "title": "Publication and interview preparation",
+      "deliverable": "Portfolio, technical write-up and quant research interview narrative",
+      "estimated_hours": 5
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 1,
+    "fields": {
+      "period": 1,
+      "chapter": 1,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 2,
+    "fields": {
+      "period": 2,
+      "chapter": 2,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 3,
+    "fields": {
+      "period": 3,
+      "chapter": 3,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 4,
+    "fields": {
+      "period": 4,
+      "chapter": 4,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 5,
+    "fields": {
+      "period": 5,
+      "chapter": 5,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 6,
+    "fields": {
+      "period": 6,
+      "chapter": 6,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 7,
+    "fields": {
+      "period": 7,
+      "chapter": 7,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 8,
+    "fields": {
+      "period": 8,
+      "chapter": 8,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 9,
+    "fields": {
+      "period": 9,
+      "chapter": 9,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 10,
+    "fields": {
+      "period": 10,
+      "chapter": 10,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 11,
+    "fields": {
+      "period": 11,
+      "chapter": 11,
+      "order": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 12,
+    "fields": {
+      "period": 12,
+      "chapter": 12,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 1,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Probability distributions, expectation, variance, covariance",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>A financial return is not a price. Define a simple return as (P[t]/P[t-1]) - 1 and a log return as log(P[t]/P[t-1]); the former compounds multiplicatively while the latter adds across adjacent intervals. The expected value is the probability-weighted average outcome, not a promise about tomorrow. Variance measures dispersion around that mean; covariance tells you whether two variables tend to move together, but does not establish causality. Real market returns often show heavier tails than a normal model. Learn why the Student-t distribution can accommodate more extreme observations and why estimating moments from short samples is unstable.</p><h3>Worked market example</h3><p>Suppose daily returns are +1%, -2%, and +1%. Their arithmetic average is zero, yet the compounded wealth change is 1.01 × 0.98 × 1.01 - 1, which is slightly negative. This distinction matters when evaluating repeated trades.</p><h3>What to read</h3><ul><li><a href=\"https://www.openintro.org/book/os/\">OpenIntro Statistics — free textbook</a></li><li><a href=\"https://numpy.org/doc/stable/reference/routines.statistics.html\">NumPy — statistics routines</a></li><li><a href=\"https://docs.scipy.org/doc/scipy/tutorial/stats.html\">SciPy statistics — distributions and methods</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Calculate simple and log returns from a small synthetic price series and confirm the compounding identity.</li><li>Compute mean, sample variance (ddof=1), covariance, skew, and kurtosis using NumPy and compare with a hand calculation.</li><li>Plot a histogram alongside fitted normal and Student-t curves; describe where the distributions disagree.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not treat successive intraday returns as independent samples or interpret a fitted distribution as a reliable tail-risk forecast.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Explain, in your own words, why a zero average simple return can still produce a wealth loss; commit a notebook with calculations and a labeled distribution plot.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        2,
+        45,
+        1
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 2,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Conditional probability, Bayes’ theorem, hypothesis tests",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Conditional probability changes the reference population: P(up | imbalance &gt; 0.5) asks about upward moves only after the specified observation. Bayes&#x27; theorem reverses conditioning: P(signal | up) is not the same as P(up | signal). A hypothesis test formalizes what you wish to reject, typically H0: mean forward return after the signal equals zero. The p-value measures how surprising the observed statistic would be under the null model; it is neither the probability that the null is true nor a measure of potential profitability. Choose your prediction horizon and signal definition before inspecting results.</p><h3>Worked market example</h3><p>Imagine an upward move occurs 52% of the time after large bid imbalance but 50% overall. The two-percentage-point difference may be economically tiny even if a huge sample produces a small naive p-value.</p><h3>What to read</h3><ul><li><a href=\"https://www.openintro.org/book/os/\">OpenIntro Statistics — free textbook</a></li><li><a href=\"https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html\">SciPy tutorial — hypothesis tests</a></li><li><a href=\"https://www.statsmodels.org/stable/stats.html\">Statsmodels — statistical inference and tests</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Build a 2 × 2 contingency table for signal present/absent versus next-move up/down.</li><li>Calculate P(up | signal), P(signal | up), and Bayes posterior manually and compare to Python.</li><li>Write a null hypothesis and run a one-sample test on independent simulated forward returns.</li></ol><h3>Common mistakes and interpretation</h3><p>Overlapping price horizons create dependence; an ordinary independent-sample test may underestimate uncertainty. Also distinguish exploratory results from pre-specified tests.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Submit the conditional probability table and a paragraph explaining exactly what your p-value does and does not say.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        2,
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 3,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Confidence intervals, bootstrapping and multiple testing",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>A confidence interval describes the precision of an estimator under assumptions about the sampling procedure. The familiar mean ± 1.96 standard errors approximation relies on an appropriate variance model; it can fail for skewed, heavy-tailed, or serially correlated market data. The bootstrap constructs a sampling distribution by repeatedly resampling observations, but the ordinary row bootstrap also assumes exchangeability. Multiple testing compounds false discoveries: with 100 independent null tests at a 5% significance threshold, about five false positives are expected on average. Learn the difference between family-wise error control and false discovery rate control.</p><h3>Worked market example</h3><p>If a signal&#x27;s estimated mean is 0.3 basis points but the 95% confidence interval spans -0.2 to +0.8 bps, the data do not rule out zero even before trading costs.</p><h3>What to read</h3><ul><li><a href=\"https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html\">SciPy — bootstrap confidence intervals</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html\">Statsmodels — multiple-test correction</a></li><li><a href=\"https://www.openintro.org/book/os/\">OpenIntro Statistics — free textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Compute a classical confidence interval for a simulated signal and a percentile or BCa bootstrap interval.</li><li>Run 100 random-signal experiments and count how often p &lt; 0.05 without genuine predictability.</li><li>Apply Bonferroni and Benjamini–Hochberg correction and compare how many candidates survive.</li></ol><h3>Common mistakes and interpretation</h3><p>Later you will use block resampling for dependent data; today&#x27;s ordinary bootstrap is a learning baseline, not the final market-data inference method.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce one plot of sampling distributions and a table showing uncorrected versus adjusted discoveries.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        4,
+        32,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 4,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Analyze market-return distributions",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>A useful return analysis begins with an explicit data contract: instrument, market session, timezone, price type, and sampling interval. Mid-price changes, transaction returns, and marked portfolio returns answer different questions. Remove impossible prices, duplicate timestamps, and session boundaries before calculating statistics. First inspect missingness and frequency, then calculate log returns and rolling summaries. Compare the bulk of the distribution with its tails instead of reporting only a mean and standard deviation. Seasonality is important: opening minutes often have different activity and volatility from midday observations.</p><h3>Worked market example</h3><p>For a daily time series with a price gap caused by missing observations, blindly taking adjacent-row returns treats a multi-day change as a one-day return. Document whether gaps are carried, excluded, or explicitly modeled.</p><h3>What to read</h3><ul><li><a href=\"https://pandas.pydata.org/docs/user_guide/basics.html#descriptive-statistics\">Pandas — descriptive statistics</a></li><li><a href=\"https://pandas.pydata.org/docs/user_guide/window.html\">Pandas — rolling and exponentially weighted windows</a></li><li><a href=\"https://docs.scipy.org/doc/scipy/tutorial/stats.html\">SciPy statistics — distributions and methods</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Load a public sample or synthetic mid-price dataset, parse timestamps, check duplicates, and mark session boundaries.</li><li>Create return histograms, quantile tables, Q–Q-style comparisons, and rolling volatility using fixed windows.</li><li>Write an automated data-quality report showing missing timestamps, outliers, and sample size by session.</li></ol><h3>Common mistakes and interpretation</h3><p>Use only data you are licensed to use; do not export proprietary order-book data from your employer. Avoid forward-filled prices when they create fake zero returns.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Save a clean research dataset and a notebook containing six descriptive statistics, two diagnostic plots, and documented cleaning decisions.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        5,
+        10,
+        1
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 5,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Test whether a simple signal’s expected return differs from zero",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A statistical signal must be defined before its forward return is measured. Separate the time when the feature becomes observable from the time at which a hypothetical position could be entered. For instance, compute bid imbalance from book state at t, then evaluate mid-price return over a later horizon (t, t+h]; never use state updates from inside that horizon as predictors. A naive mean-forward-return test is a first diagnostic, not a trading strategy. Compare a candidate event set against an unconditional baseline and record sample counts, event overlap, and the size of the effect in basis points.</p><h3>Worked market example</h3><p>Assume a signal yields +0.4 bps average future mid-price movement. If entering and exiting costs 1.5 bps, the sign of the statistical effect alone does not support profitable trading.</p><h3>What to read</h3><ul><li><a href=\"https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html\">SciPy tutorial — hypothesis tests</a></li><li><a href=\"https://www.statsmodels.org/stable/stats.html\">Statsmodels — statistical inference and tests</a></li><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create a deterministic synthetic feature and future-return label with strictly increasing timestamps.</li><li>Compute the conditional mean, standard error, and confidence interval for high-imbalance events.</li><li>Write a one-page hypothesis with look-ahead checks, estimated effect size, and reasons it might disappear.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not annualize tick-level statistics mechanically, ignore dependent observations, or equate mid-price prediction with executable PnL.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 1 with a notebook and research memo separating hypothesis, evidence, uncertainty, and estimated cost.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        3,
+        6,
+        46
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 6,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Stationarity, autocorrelation, heteroskedasticity",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>A time series is ordered information, not merely a DataFrame with a timestamp column. Stationarity roughly means that statistical properties such as mean and autocovariance are stable over time; many market prices are nonstationary, while some transformations are closer to stationary. Autocorrelation measures dependence across lags. Heteroskedasticity means variability changes over time, a common feature of returns and order-flow activity. Use diagnostics to assess assumptions, not to label a process permanently. The augmented Dickey–Fuller test has a unit-root null; a large p-value does not prove stationarity or nonstationarity.</p><h3>Worked market example</h3><p>A simulated random walk will generally show persistent levels and much less persistent differences. Compare ACF plots of the level series, its first difference, and squared differences to see distinct forms of dependence.</p><h3>What to read</h3><ul><li><a href=\"https://otexts.com/fpp3/\">Forecasting: Principles and Practice — free online textbook</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.acf.html\">Statsmodels — sample autocorrelation function</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.adfuller.html\">Statsmodels — augmented Dickey–Fuller test</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Generate stationary AR(1) and random-walk series with a fixed seed and equal observation counts.</li><li>Plot levels, differences, ACF, and rolling variance for each process.</li><li>Run an ADF test and explain both its null and why sample size matters.</li></ol><h3>Common mistakes and interpretation</h3><p>Overlapping prediction labels can create strong autocorrelation even when raw returns are weakly autocorrelated. Keep the label construction in view.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a two-column diagnostic table distinguishing trend, autocorrelation, volatility clustering, and stationarity claims.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        47,
+        48,
+        49
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 7,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Bid/ask spread, mid-price, microprice, depth and imbalance",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>A limit order book consists of visible bids and asks arranged by price priority. Best bid is the highest displayed buying price; best ask is the lowest displayed selling price. The spread is ask minus bid, and mid-price is their average. Level-one quantity imbalance compares displayed bid and ask size using (Qb-Qa)/(Qb+Qa). The microprice instead weights the best prices by opposite-side quantities: (Ask×Qb + Bid×Qa)/(Qb+Qa). It is a heuristic for pressure toward the thinner side, not a guaranteed executable price. Depth at levels 2–10 may matter when best quotes are small.</p><h3>Worked market example</h3><p>With bid 100.00, ask 100.02, bid size 800, and ask size 200, the spread is 0.02 and the mid is 100.01; imbalance is 0.60, while microprice is 100.016.</p><h3>What to read</h3><ul><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://php.lobsterdata.com/info/DataSamples.php\">LOBSTER — free order-book sample files</a></li><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Read LOBSTER field definitions and inspect the first 20 message and book rows side by side.</li><li>Implement tested functions for spread, mid, top-of-book imbalance, and microprice with zero-denominator guards.</li><li>Plot these measures around five genuine or synthetic quote changes.</li></ol><h3>Common mistakes and interpretation</h3><p>Quotes may be locked, crossed, stale, or contain placeholder zero-size levels; validate each row before applying formulas.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Show hand-calculated numbers for the worked example and matching unit-test assertions in Python.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        50,
+        51,
+        46
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 8,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Market regimes, event time vs. clock time",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Market regimes are periods with meaningfully different liquidity, activity, or volatility. Event time advances after a specified number of book events or trades; clock time advances by seconds or milliseconds even when no messages arrive. This difference changes what a return horizon means. A prediction made ten book updates ahead may span milliseconds in an active market but seconds in a quiet one. Partition sessions into simple activity bins using only information already observed, such as a trailing event count. Then compare spread and volatility across these bins rather than assuming one process describes all hours.</p><h3>Worked market example</h3><p>If one interval contains 50 updates and another only two, a 20-event horizon implies very different wall-clock durations. That creates an interpretation problem when comparing latency-sensitive forecasts.</p><h3>What to read</h3><ul><li><a href=\"https://php.lobsterdata.com/info/DataSamples.php\">LOBSTER — free order-book sample files</a></li><li><a href=\"https://otexts.com/fpp3/\">Forecasting: Principles and Practice — free online textbook</a></li><li><a href=\"https://pandas.pydata.org/docs/user_guide/window.html\">Pandas — rolling and exponentially weighted windows</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Convert a message stream into one-second and 100-event summaries without introducing future observations.</li><li>Plot event counts, spread, and realized volatility by intraday interval.</li><li>Define two transparent regimes from trailing activity and compare basic distributions.</li></ol><h3>Common mistakes and interpretation</h3><p>If you define high-volatility regimes using the complete future day, your regime variable leaks information even if your predictive model does not.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Save one annotated figure showing how conclusions differ between event-time and clock-time sampling.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        51,
+        47,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 9,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Implement rolling volatility, ACF and order-book imbalance",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>Rolling volatility is an estimate attached to a point in time; decide whether it should include the current observation and ensure every window is backward-looking. Realized volatility over a sampled window can be approximated from the sum of squared log returns, while standard deviation quantifies the dispersion of sampled returns. An autocorrelation function (ACF) plots correlation at multiple lags; return ACF and squared-return ACF often tell different stories. For LOB snapshots, compute imbalance from contemporaneous sizes and compare its distribution across windows, not only its average value.</p><h3>Worked market example</h3><p>A five-observation rolling standard deviation is undefined or unreliable at the beginning of the series. Decide whether to emit NaN until sufficient history exists, rather than backfilling with later data.</p><h3>What to read</h3><ul><li><a href=\"https://pandas.pydata.org/docs/user_guide/window.html\">Pandas — rolling and exponentially weighted windows</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.acf.html\">Statsmodels — sample autocorrelation function</a></li><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create reusable rolling-volatility and lagged-return functions with explicit min_periods.</li><li>Compute ACF for returns, squared returns, and imbalance on a bounded sample.</li><li>Add unit tests confirming rolling outputs at selected timestamps use no later values.</li></ol><h3>Common mistakes and interpretation</h3><p>Overlapping rolling windows induce dependence; neither a smooth plotted series nor a pronounced ACF peak establishes a tradable signal.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Commit a tested feature module and three labeled diagnostics with window sizes in the captions.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        10,
+        48,
+        50
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 10,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Visualize signal behavior across different volatility regimes",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A regime comparison asks whether a feature&#x27;s relationship with future outcomes survives environmental changes. Start with a candidate imbalance signal and a target horizon. Bin observations into low and high trailing-volatility groups using cutoffs learned on an earlier training period. Compute the conditional average forward return, spread, and sample count separately for each group. If signal direction flips across groups, a single pooled coefficient may conceal meaningful instability. Present uncertainty rather than judging model quality from a single noisy chart.</p><h3>Worked market example</h3><p>A model that appears positive on active sessions and negative in quiet sessions might reflect different liquidity conditions, or it might simply be random variation caused by small groups.</p><h3>What to read</h3><ul><li><a href=\"https://pandas.pydata.org/docs/user_guide/window.html\">Pandas — rolling and exponentially weighted windows</a></li><li><a href=\"https://php.lobsterdata.com/info/DataSamples.php\">LOBSTER — free order-book sample files</a></li><li><a href=\"https://otexts.com/fpp3/\">Forecasting: Principles and Practice — free online textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Build a 2 × 2 table crossing imbalance sign with low/high prior volatility regime.</li><li>Plot conditional returns with confidence intervals and display the number of independent days.</li><li>Write two falsifiable explanations for any regime-specific differences.</li></ol><h3>Common mistakes and interpretation</h3><p>Avoid fitting cutoffs or choosing the most flattering regimes after viewing test-period outcomes.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver Week 2&#x27;s microstructure feature notebook with clearly documented sampling conventions and one regime-analysis figure.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        10,
+        51,
+        47
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 11,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Linear and logistic regression, regularization",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>Linear regression predicts a continuous target as a weighted sum of features; logistic regression predicts a binary-class probability using the sigmoid of a linear score. Study the roles of coefficients, intercept, likelihood, and regularization. In financial data, correlated predictors such as bid imbalance and microprice displacement can make coefficients unstable. L1 regularization may zero out coefficients, while L2 shrinks weights; both must be tuned on historical validation data rather than the final test. Standardize numeric inputs using statistics from the training window only. Ask whether a linear decision boundary is a defensible starting approximation to the market problem.</p><h3>Worked market example</h3><p>If imbalance rises from -0.5 to +0.5, a logistic model might increase its estimated probability of an upward mid-price move from 0.46 to 0.54. This is a forecast score—not an eight-percent guaranteed edge.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/linear_model.html\">Scikit-learn — linear models and regularization</a></li><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html\">Scikit-learn — LogisticRegression API and examples</a></li><li><a href=\"https://www.statlearning.com/\">Introduction to Statistical Learning — free textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Derive the logistic sigmoid and explain log-odds using two hand-chosen scores.</li><li>Fit logistic models with weak and strong regularization on a synthetic noisy feature table.</li><li>Compare coefficient size and test-period log loss after train-only standardization.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not normalize with full-dataset statistics or explain logit coefficients as causal effects. High training accuracy is irrelevant if test results collapse.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Show coefficient tables, calibration plots, and a clear explanation of which data informed preprocessing and tuning.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        12,
+        17,
+        42
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 12,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Decision trees, random forests, XGBoost",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Decision trees split feature space with threshold rules, handling interactions without explicit feature crosses. A random forest averages many decorrelated trees to reduce variance. Gradient boosting instead adds weak learners sequentially to correct residual errors; XGBoost is a common implementation with shrinkage, tree constraints, and regularization. Understand learning rate, max depth, number of estimators, subsampling, and early stopping. In high-frequency data, a powerful model may memorize timestamp patterns or instrument-specific quirks. Use the same chronological split and feature availability convention when comparing models.</p><h3>Worked market example</h3><p>A tree can learn a rule such as: predict upward only when imbalance &gt; 0.4 and spread &lt;= one tick. That may be useful, but it can also reflect a spurious partition in one trading session.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/ensemble.html\">Scikit-learn — ensemble trees and random forests</a></li><li><a href=\"https://xgboost.readthedocs.io/en/stable/python/python_intro.html\">XGBoost — official Python tutorial</a></li><li><a href=\"https://www.statlearning.com/\">Introduction to Statistical Learning — free textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Train a shallow decision tree and print the top two levels of the learned rules.</li><li>Train a random forest and an XGBoost classifier on identical chronological datasets.</li><li>Compare validation log loss, feature ranks, run time, and sensitivity to tree depth.</li></ol><h3>Common mistakes and interpretation</h3><p>A higher validation score after trying many parameter combinations still suffers selection bias. Reserve an untouched later test period.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a compact model comparison table with explicit dates, parameters, and reasons for any performance difference.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        52,
+        14,
+        42
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 13,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Classification metrics and probability calibration",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Accuracy alone is misleading when the next-price outcome is often unchanged or when one direction dominates. Define positive class and sample-weight policy first. Precision measures the fraction of predicted positives that are correct; recall measures the fraction of actual positives recovered. ROC-AUC evaluates ranking over thresholds, while log loss and Brier score evaluate probabilistic forecasts. Calibration asks whether events assigned probability 0.60 happen approximately 60% of the time. For trading, even a calibrated model is not automatically a useful signal: spreads and costs matter.</p><h3>Worked market example</h3><p>A classifier that always predicts “no upward move” may score 80% accuracy if upward moves occur only 20% of the time. It has zero recall for the intended positive class.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li><li><a href=\"https://scikit-learn.org/stable/modules/calibration.html\">Scikit-learn — probability calibration and reliability diagrams</a></li><li><a href=\"https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html\">Scikit-learn — precision/recall for imbalanced data</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Compute confusion matrices for two thresholds on the same holdout period.</li><li>Generate reliability diagrams and Brier scores; compare uncalibrated versus calibrated probabilities.</li><li>Explain which metric best serves directional prediction versus probability-based threshold decisions.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not calibrate using the test set. When observations are serially dependent, apparent calibration precision can be overstated.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a metrics table, reliability diagram, and one-paragraph choice of primary metric with justification.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        15,
+        31,
+        53
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 14,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Create directional labels over several prediction horizons",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>A target is the outcome your model is asked to predict, not an arbitrary column generated with a negative shift. Define the observation timestamp, feature cutoff, prediction horizon, and target precisely. For example, y[t]=sign(mid[t+20 events]-mid[t]) defines a 20-event directional target. Decide how to represent zero moves: a third class, excluded samples, or a documented dead zone. Each alternative changes class frequencies and comparability. Horizons expressed in events differ from those in clock time. Keep labels and feature generation in separate functions to make leakage audits easier.</p><h3>Worked market example</h3><p>If the best ask changes at event 101 and the features use the state after event 101, the target must be measured after that state; using the event-101 move as the target would leak the answer.</p><h3>What to read</h3><ul><li><a href=\"https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shift.html\">Pandas — shift for lagged and future labels</a></li><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Construct 5-, 20-, and 100-event horizon labels from clean mid-price states.</li><li>Compute class proportions and nonzero-move percentages by horizon and session.</li><li>Write tests checking that changing any future price leaves features at time t unchanged.</li></ol><h3>Common mistakes and interpretation</h3><p>Overlapping label windows are dependent. Avoid using “future” fields in a feature pipeline because the dataframe alignment seems convenient.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Save label definitions and unit tests, plus an explicit diagram of feature observation and outcome windows.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        16,
+        50,
+        19
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 15,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Train a naive baseline and logistic regression model",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A baseline quantifies the value of your sophisticated model. Useful baselines include predicting the majority class, always forecasting no move, a fixed probability equal to the training prevalence, or a one-feature imbalance rule. Train logistic regression only after fitting transformations on training data. Compare forecasts on a chronologically later block using class-balanced metrics, log loss, and calibration. Record research decisions and random seeds so you can rerun the experiment. If simple models match more complex ones, that is informative rather than embarrassing.</p><h3>Worked market example</h3><p>Suppose a logistic classifier increases accuracy from 51.0% to 51.4% while worsening log loss. It may make more correct hard decisions but be less reliable as a probability estimator.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html\">Scikit-learn — LogisticRegression API and examples</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li><li><a href=\"https://scikit-learn.org/stable/modules/compose.html\">Scikit-learn — pipelines and composite estimators</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Train majority-class and training-prevalence probability baselines.</li><li>Fit one-feature and multi-feature logistic regression using train-only preprocessing.</li><li>Create an untouched chronological test report with confusion matrices and log-loss comparisons.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not compare models on different instrument/date subsets or select the best threshold using the test data.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 3 with reproducible baseline results, preprocessing code, and a one-page model-comparison interpretation.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        17,
+        15,
+        54
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 16,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Chronological train/validation/test splits",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>Financial observations are generated along a timeline. A random train-test split can put near-identical book states from adjacent milliseconds on opposite sides of the split. Chronological splitting instead trains on early observations, tunes on a later validation interval, and evaluates once on an even later test interval. Define partitions by session or date rather than arbitrary row percentages where practical. Split before fitting scalers, encoders, feature selectors, and calibrators. Make evaluation intervals long enough to contain different liquidity conditions and report date ranges, event counts, and class prevalence.</p><h3>Worked market example</h3><p>A 70/15/15 split by rows might cut through the same trading session. A date-based split on distinct sessions gives cleaner separation and makes market-regime interpretation easier.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html\">Scikit-learn — TimeSeriesSplit</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://scikit-learn.org/stable/modules/cross_validation.html\">Scikit-learn — validation strategies</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement a date-based splitter that returns nonoverlapping train, validation, and test indices.</li><li>Fit the same logistic pipeline under chronological and randomly shuffled splits.</li><li>Audit the split boundaries and verify no same-session overlap occurs when sessions are the unit.</li></ol><h3>Common mistakes and interpretation</h3><p>Chronological order alone does not eliminate overlapping-label leakage at fold boundaries; address the horizon in tomorrow’s lesson.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Commit a split manifest listing dates, counts, target frequencies, and transformation fit scope.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        18,
+        19,
+        33
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 17,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Walk-forward testing, overlapping labels, purging and embargoes",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Walk-forward evaluation repeats a realistic sequence: train on available past data, predict the next unseen period, advance the clock, and optionally refit. Expanding windows accumulate history; rolling windows discard older data to adapt to regime drift. Purging removes training observations whose label-information intervals overlap a validation or test period. An embargo adds a separation interval when delayed information or feature construction justifies it. The correct purge is based on when each label’s outcome becomes known, not an arbitrary fixed number of rows. Maintain a final untouched test period after research iteration.</p><h3>Worked market example</h3><p>If a training sample at event 95 uses the price at event 115 as its label, it overlaps a test segment starting at event 100, even though the feature timestamp is earlier.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html\">Scikit-learn — TimeSeriesSplit</a></li><li><a href=\"https://scikit-learn.org/stable/modules/cross_validation.html\">Scikit-learn — validation strategies</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Draw timeline examples of overlapping horizon labels and identify invalid training observations.</li><li>Implement expanding-window train/validation folds using trading dates.</li><li>Add purging based on label end timestamps and tests demonstrating overlap removal.</li></ol><h3>Common mistakes and interpretation</h3><p>Avoid asserting an embargo always fixes leakage; the needed gap depends on the exact feature and label information windows.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Return a fold table and prove by assertion that no retained training label reaches into its held-out interval.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        18,
+        33,
+        19
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 18,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Feature leakage, selection bias, overfitting",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Leakage occurs when your model gains information that would not exist at prediction time. Common sources include future-return features, global standardization, feature selection across the full sample, cross-sectional aggregates computed using future constituents, and labels that overlap training and test boundaries. Selection bias appears when you repeatedly inspect test performance and keep the most flattering model. Overfitting is the failure to generalize beyond patterns seen during development. Every pipeline stage should carry an “available as of” definition and be fit only on permissible data.</p><h3>Worked market example</h3><p>Computing the mean spread for an entire trading day and attaching it to morning events leaks afternoon spreads. A trailing spread mean known at each morning event does not.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://scikit-learn.org/stable/modules/compose.html\">Scikit-learn — pipelines and composite estimators</a></li><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html\">Scikit-learn — TimeSeriesSplit</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create two deliberately leaky features and document how each leaks future information.</li><li>Replace them with trailing or train-only versions and rerun the experiment.</li><li>Audit transformations, labels, session aggregates, and hyperparameter tuning in a written checklist.</li></ol><h3>Common mistakes and interpretation</h3><p>A large drop after fixing leakage is expected and healthy; do not restore the bug just because a metric looks worse.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a leakage audit with an evidence column showing the source timestamp of every feature.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        19,
+        54,
+        18
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 19,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Implement a walk-forward evaluation framework",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>A walk-forward framework should enforce the research protocol rather than rely on a notebook author remembering the rules. Accept a feature table, target values, event timestamps, label-end timestamps, and fold calendar. For each fold, fit preprocessing and the model on eligible historical samples; predict only the assigned next interval; and store predictions with identifiers and metadata. Design immutable split IDs so model results are comparable. Prefer a small transparent framework over a large abstraction that hides what was fit when.</p><h3>Worked market example</h3><p>For a three-fold study, output records such as (fold=2, train_end=2025-03-31, predict_date=2025-04-01, model_hash=...) rather than one aggregate accuracy number.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html\">Scikit-learn — TimeSeriesSplit</a></li><li><a href=\"https://scikit-learn.org/stable/modules/compose.html\">Scikit-learn — pipelines and composite estimators</a></li><li><a href=\"https://mlflow.org/docs/latest/ml/tracking/\">MLflow — experiment tracking</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create a generator yielding purged train and validation index sets.</li><li>Wrap scaler and estimator in a pipeline fitted independently for each fold.</li><li>Persist out-of-fold predictions and a manifest with timestamps, parameters, and metrics.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not average fold metrics without reporting observation weights or regime variation. Keep all input data versioned or hashed.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish with unit tests for chronology, purging, output uniqueness, and retrain isolation.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        18,
+        54,
+        41
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 20,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Compare random split against proper chronological validation",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A random-versus-chronological split experiment is a diagnostic of dependence and distribution shift, not a guarantee that one gap explains all performance differences. Freeze the feature set and model architecture. Use identical classification metrics under shuffled, chronological, and properly purged walk-forward evaluation. Investigate how many adjacent timestamps from each session cross the shuffled boundary. Report performance by calendar interval to distinguish temporal leakage from real change in market conditions.</p><h3>Worked market example</h3><p>A random split might yield AUC 0.69 while walk-forward yields 0.52. That gap is a warning, but also inspect sample composition and preprocessing before attributing it solely to leakage.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html\">Scikit-learn — TimeSeriesSplit</a></li><li><a href=\"https://scikit-learn.org/stable/modules/cross_validation.html\">Scikit-learn — validation strategies</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Run controlled evaluation under all three split strategies with fixed random seeds.</li><li>Plot predictions and residual errors across chronological holdout blocks.</li><li>Write a methods note explaining which score is suitable for the final research claim and why.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not take the walk-forward result, tune repeatedly against it, and continue to call it out-of-sample testing.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver Week 4’s validation engine with an audit-friendly comparison table and one meaningful failure diagnosis.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        19,
+        18,
+        33
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 21,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Order-book imbalance and microprice",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>Displayed imbalance summarizes competition between bid and ask size. At the best level, I=(Qbid-Qask)/(Qbid+Qask) lies between -1 and +1 for nonnegative quantities with a positive denominator. Microprice weights the bid by ask quantity and the ask by bid quantity, moving toward the side with less displayed liquidity. Multi-level imbalance aggregates depth across price levels, but careless sums ignore distance from the touch. Examine whether these features provide information beyond spread and the most recent price change. Use causal book snapshots, not future reconstructed states.</p><h3>Worked market example</h3><p>With bid 100.00/800 shares and ask 100.02/200 shares, imbalance is +0.6 and microprice is 100.016, above the mid-price 100.01. A future upward move is plausible, not certain.</p><h3>What to read</h3><ul><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://php.lobsterdata.com/info/DataSamples.php\">LOBSTER — free order-book sample files</a></li><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement level-one and five-level imbalance with zero-size and empty-book guards.</li><li>Calculate mid, spread, microprice, and a volume-weighted depth profile for five examples.</li><li>Test whether the imbalance distribution differs before upward, downward, and unchanged moves.</li></ol><h3>Common mistakes and interpretation</h3><p>Displayed liquidity can vanish through cancellation and may not represent executable resting size when your order arrives.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a tested imbalance module and a small numerical comparison showing when microprice diverges from mid-price.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        50,
+        51,
+        46
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 22,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Order-flow imbalance, liquidity shifts, spread and depth",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Order-flow imbalance (OFI) concerns changes in displayed supply and demand, not just quantities in one snapshot. A basic best-level OFI aggregates the signed contribution from quote price and size updates; its construction is sensitive to when prices improve or worsen. New limit orders, cancellations, and marketable orders change the book in different ways, and the same trade size can have different impact under thin versus deep liquidity. Learn to reconstruct features from consecutive events while preventing duplicated updates and impossible state transitions. Separate trade-initiated flow from all visible book changes.</p><h3>Worked market example</h3><p>A best-bid size increase of 100 at the same price contributes positive bid-side OFI. But if the best bid price falls, simply subtracting old and new sizes misses a major loss of buying pressure.</p><h3>What to read</h3><ul><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://onlinelibrary.wiley.com/doi/10.1111/mafi.12413\">Kolm et al. — Deep Order Flow Imbalance</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Read an OFI research definition and translate its price-change cases into pseudocode.</li><li>Compute a simplified signed depth-change statistic on a hand-written quote-event stream.</li><li>Compare OFI, spread, and visible depth against later mid-price movement on public or synthetic data.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not label every cancellation as a market order. Quote-level data cannot reveal hidden liquidity or exact queue position.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce event-state unit tests and a table illustrating how cancellations, additions, and quote moves affect OFI.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        46,
+        50,
+        55
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 23,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Feature importance, ablation and stability",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Feature importance is conditional on the model and the evaluation distribution. A tree&#x27;s impurity-based importance can favor continuous or high-cardinality predictors; permutation importance measures how a trained model&#x27;s score changes when a feature is disrupted on held-out data. Highly correlated features can mask each other. Ablation is a research experiment: remove one feature family, retrain under an unchanged protocol, and measure the change. Stability means observing direction and magnitude across dates, instruments, and regimes rather than trusting a single overall ranking.</p><h3>Worked market example</h3><p>Imbalance and microprice displacement encode related information. Removing either alone might barely change AUC, even though removing both reveals that the liquidity-pressure family matters.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/permutation_importance.html\">Scikit-learn — permutation feature importance</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Group candidate features into price, liquidity, order-flow, and volatility families.</li><li>Run permutation importance on a later validation interval; identify correlated pairs.</li><li>Retrain after dropping each feature family and report metric changes across multiple folds.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not infer causality from importance values. Tuning a feature list repeatedly on the final test is still model selection.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Save an ablation matrix and explain which feature families remain useful across at least two time periods.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        21,
+        19,
+        15
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 24,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Engineer 10–20 candidate features from available data",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>Feature engineering should turn economic intuition into timestamp-correct variables. Candidate families include top-of-book imbalance, depth-weighted imbalance, microprice minus mid-price in ticks, spread, relative spread, realized short-window volatility, signed price changes, event arrival rate, book slope, and OFI. Every feature needs a mathematical definition, units, minimum history, and availability timestamp. Favor a tested vectorized implementation and preserve nulls at the start of rolling windows. Build the smallest feasible matrix before adding expensive event reconstruction.</p><h3>Worked market example</h3><p>A 30-second trailing event rate is the count of messages in the interval (t-30s,t], divided by 30; counting later messages would leak upcoming activity.</p><h3>What to read</h3><ul><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://pandas.pydata.org/docs/user_guide/window.html\">Pandas — rolling and exponentially weighted windows</a></li><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Write a schema with definitions and units for 15 candidate features.</li><li>Implement and unit-test each feature on small, hand-verifiable market states.</li><li>Profile calculation speed and measure missing-value frequency on sample sessions.</li></ol><h3>Common mistakes and interpretation</h3><p>Large numbers of features create multiple-testing pressure; new feature quantity is not itself a research achievement.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a tested DataFrame with 10–20 documented feature columns and no forward-looking dependencies.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        50,
+        10,
+        46
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 25,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Run feature ablations using logistic regression and XGBoost",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>Ablation studies reveal whether model improvements come from a particular information source. Start with a logistic baseline using a minimal liquidity feature set and an XGBoost baseline under the same chronological folds. Add feature families one at a time, then remove them from the strongest configuration. Track validation AUC and log loss, with per-fold variation and computation cost. If a feature helps only in one short session, mark it as unstable. Prespecify what improvement counts as meaningful before inspecting the final held-out data.</p><h3>Worked market example</h3><p>Adding OFI may improve average log loss from 0.692 to 0.689 on validation but worsen two of three folds. Report that uncertainty rather than claiming an established improvement.</p><h3>What to read</h3><ul><li><a href=\"https://xgboost.readthedocs.io/en/stable/python/python_intro.html\">XGBoost — official Python tutorial</a></li><li><a href=\"https://scikit-learn.org/stable/modules/permutation_importance.html\">Scikit-learn — permutation feature importance</a></li><li><a href=\"https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html\">Scikit-learn — LogisticRegression API and examples</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Run logistic and XGBoost baselines on identical folds and labels.</li><li>Generate an ablation table for imbalance, OFI, spreads, and volatility feature families.</li><li>Graph performance by fold and write an interpretation of improvements versus variance.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not compare different target definitions or filtered samples as though only the feature set changed.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 5 with a versioned feature library and a reproducible ablation report.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        14,
+        21,
+        17
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 26,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Tensors, autograd, GPU computation",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>PyTorch tensors carry shape, dtype, and device; knowing these explicitly prevents silent errors in numeric modeling. Autograd builds a computation graph and calculates derivatives of a scalar loss with respect to parameters. In a linear classifier, gradients point toward weights that reduce the current batch loss under the learning rule. GPU use may accelerate large matrix operations but introduces transfer overhead and nondeterminism, so a CPU baseline is often enough for small order-book samples. Distinguish training tensors that require gradients from validation tensors evaluated under no_grad().</p><h3>Worked market example</h3><p>For y=(w*x+b)^2, differentiate with respect to w by hand: dy/dw=2(w*x+b)*x. Check that PyTorch autograd produces the same number for fixed scalars.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html\">PyTorch — tensor tutorial</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html\">PyTorch — autograd tutorial</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/\">PyTorch — learn the basics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create tensors of shapes (batch, features) and test broadcasting and matrix multiplication.</li><li>Compute a hand-verified derivative using autograd, then compare to a finite difference.</li><li>Run the same small matrix operation on CPU and available GPU, recording time and numeric tolerance.</li></ol><h3>Common mistakes and interpretation</h3><p>A GPU runtime is optional at this stage; device performance is not meaningful without warm-up, synchronization, and appropriate workload size.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Submit a notebook with gradient verification, tensor shape explanations, and documented compute-device behavior.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        56,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 27,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Optimizers, training loops, regularization",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>A supervised training loop repeats forward pass, loss calculation, backward pass, optimizer step, and gradient reset. Cross-entropy is appropriate for classification logits; feeding probabilities into a logits-based loss can cause mistakes. Adam adapts step sizes, while SGD uses direct gradients and momentum variants. Weight decay, dropout, and early stopping reduce overfitting by different mechanisms. Track separate train and validation losses by epoch, and only choose checkpoints using validation information. Class imbalance may require class-weighted loss, but first understand the baseline prevalence.</p><h3>Worked market example</h3><p>If training loss falls steadily while validation loss begins rising after epoch 8, increasing the number of epochs may improve memorization but worsen generalization.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html\">PyTorch — optimization and training loop</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html\">PyTorch — build a neural network</a></li><li><a href=\"https://scikit-learn.org/stable/modules/calibration.html\">Scikit-learn — probability calibration and reliability diagrams</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement a training loop with explicit optimizer.zero_grad, backward, and step calls.</li><li>Plot train and validation loss for two learning rates and two weight-decay settings.</li><li>Save the best validation checkpoint and prove that evaluation disables gradient calculation.</li></ol><h3>Common mistakes and interpretation</h3><p>A smaller validation loss after trying dozens of settings may be lucky; record the search budget and avoid inspecting the final test repeatedly.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver one reproducible training script, loss curves, and the chosen hyperparameter rationale.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        24,
+        26,
+        31
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 28,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Dataset/DataLoader design and reproducibility",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>A Dataset maps an index to one training example; a DataLoader batches and optionally shuffles these examples. For market data, shuffling batches within the already-defined training set is often acceptable for independent snapshot classification, but never shuffle entire chronological partitions into mixed train/test membership. Sequence datasets must preserve window order within each example. Normalize with train-only moments and serialize exact feature order, label map, fold boundaries, and random seeds. Save metadata alongside the model so inference transforms match training transforms.</p><h3>Worked market example</h3><p>If training uses feature order [imbalance, spread, volatility] but inference supplies [spread, imbalance, volatility], the model runs without crashing and produces wrong predictions.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html\">PyTorch — Dataset and DataLoader</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/\">PyTorch — learn the basics</a></li><li><a href=\"https://mlflow.org/docs/latest/ml/tracking/\">MLflow — experiment tracking</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Write a custom Dataset returning feature tensors, class IDs, and timestamp IDs.</li><li>Create DataLoaders for training and validation with correct shuffle behavior.</li><li>Rerun two trainings with fixed seeds, saving dataset hash, software versions, and output differences.</li></ol><h3>Common mistakes and interpretation</h3><p>Full determinism may depend on PyTorch operations, GPU backends, and device selection; document what your setup actually reproduces.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a dataset contract, reproducible train command, saved feature order, and experiment manifest.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        25,
+        23,
+        41
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 29,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Implement an MLP for market direction forecasting",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>A multilayer perceptron (MLP) stacks linear transformations and nonlinear activations to model interactions among tabular order-book features. Start with two small hidden layers, ReLU or GELU, and cross-entropy output logits; this is a baseline, not a deep market model. Train using the same cleaned feature set and chronological folds as logistic regression and XGBoost. Compare learning curves, predicted class probabilities, and inference latency. Add dropout or weight decay only after a simple model works and basic numerical assertions pass.</p><h3>Worked market example</h3><p>A 20-feature input, a 32-unit hidden layer, a 16-unit layer, and a two-class output is usually sufficient to learn the training mechanics without requiring a large GPU.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html\">PyTorch — build a neural network</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html\">PyTorch — optimization and training loop</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement an nn.Module with shape assertions and parameter counts.</li><li>Train on one frozen split; record log loss, AUC, and calibration.</li><li>Compare small versus wider networks and demonstrate whether extra capacity helps the holdout.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not report better training accuracy as evidence of a better model. Check batch normalization and scaling choices for information leakage.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Save a runnable MLP model and validation report with weights, configuration, and preprocessing metadata.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        26,
+        24,
+        15
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 30,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Benchmark PyTorch against your classical ML baselines",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A fair benchmark changes the model family while holding everything else fixed: instruments, timestamps, target horizon, feature set, evaluation folds, costs, and metric definitions. Report logistic regression, XGBoost, and PyTorch MLP with common training and inference budgets where feasible. Benchmark CPU prediction latency with appropriate warm-up and batch sizes, since a model useful in offline research may be impractical for a latency-sensitive signal. Interpret small metric differences relative to fold variability rather than treating the largest observed number as decisive.</p><h3>Worked market example</h3><p>An MLP may achieve AUC 0.534 while XGBoost gets 0.531, but if fold-to-fold AUC ranges from 0.49 to 0.56, that difference is not compelling evidence of superiority.</p><h3>What to read</h3><ul><li><a href=\"https://xgboost.readthedocs.io/en/stable/python/python_intro.html\">XGBoost — official Python tutorial</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html\">PyTorch — optimization and training loop</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Run all three trained models on exactly the same out-of-fold validation records.</li><li>Create a benchmark table for AUC, log loss, Brier score, train time, and inference latency.</li><li>Inspect misclassified cases and document one reason a simpler model may be preferable.</li></ol><h3>Common mistakes and interpretation</h3><p>Avoid changing preprocessing or excluding difficult dates for just one model. Keep the true final test hidden.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver Week 6’s fair comparison report and select a baseline for later sequence modeling.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        14,
+        24,
+        15
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 31,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "LSTM and GRU models",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>LSTM and GRU recurrent cells process a sequence one step at a time while carrying a hidden state. LSTMs add a cell state and multiple gates to regulate retained information; GRUs simplify that gating. For book features, input shape commonly is (batch, sequence_length, features), but the exact PyTorch layout depends on batch_first. Decide whether to use the last hidden state or aggregate all time steps. Their advantage over an MLP depends on stable sequential information, not merely the existence of timestamps. Sequence length creates a tradeoff among context, compute, sample overlap, and drift.</p><h3>Worked market example</h3><p>With 30 events and 12 features per event, one example has 360 numbers but represents a structured (30,12) time sequence. An LSTM learns a recurrent transformation rather than 360 unrelated positions.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html\">PyTorch — torch.nn.LSTM reference</a></li><li><a href=\"https://docs.pytorch.org/docs/stable/generated/torch.nn.GRU.html\">PyTorch — torch.nn.GRU reference</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html\">PyTorch — sequence models and LSTMs tutorial</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Diagram the LSTM input, hidden state, and output for a sequence-to-one classifier.</li><li>Create a small GRU and LSTM and verify output dimensions with batch_first=True.</li><li>Compare parameter counts and CPU forward-pass latency at lengths 10, 30, and 100.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not reset hidden state incorrectly across unrelated sessions; for independent windows, start from a clean state unless explicitly modeling continuity.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Provide a shape-tested recurrent module and a short explanation of when LSTM/GRU may offer value beyond lag features.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        27,
+        57,
+        28
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 32,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Attention and positional information",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Attention lets a model weight information from multiple positions in a sequence. Scaled dot-product attention computes softmax(QK^T/sqrt(d_k))V, connecting queries to keys and retrieving a weighted combination of values. A Transformer does not inherently know event order, so order or time must be represented using positional or temporal encodings. Market messages arrive irregularly; a sequence of ten updates can represent very different elapsed time. Compare a sequence index embedding with explicit interarrival-time features. Understand that attention weights are not a validated causal explanation of a forecast.</p><h3>Worked market example</h3><p>Suppose the strongest imbalance event occurred 18 updates ago. An attention mechanism may assign weight to that position while an LSTM compresses prior information into its state.</p><h3>What to read</h3><ul><li><a href=\"https://jalammar.github.io/illustrated-transformer/\">The Illustrated Transformer — guided attention explanation</a></li><li><a href=\"https://docs.pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html\">PyTorch — MultiheadAttention implementation</a></li><li><a href=\"https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html\">PyTorch — torch.nn.LSTM reference</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Calculate a 2-token attention example using tiny vectors and a softmax table.</li><li>Implement a batch-first MultiheadAttention layer and verify masks and dimensions.</li><li>Create sinusoidal position features and separate elapsed-time features for one sample sequence.</li></ol><h3>Common mistakes and interpretation</h3><p>Using a bidirectional model to predict before the final input event can leak later within-window information unless the complete input window is genuinely observed.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Submit an attention calculation, tested model snippet, and discussion of event-time encoding versus clock-time encoding.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        29,
+        58,
+        27
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 33,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Sequence windows and nonstationary data",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>To prepare supervised sequences, choose a lookback length L, a prediction time t, and an outcome horizon H. Each input must contain only rows in [t-L+1,t], while its label uses observations after t. Split by dates or sessions before constructing any sequence whose elements could cross partitions. Overlapping sequence windows are highly correlated and should not be mistaken for independent observations. Handling market regime drift may require trailing normalization, occasional retraining, and reports by date rather than one pooled metric.</p><h3>Worked market example</h3><p>For L=20 and H=5, the feature tensor at t=100 uses events 81–100; its target can use the mid at event 105, but neither event 105 nor any later event may appear in its features.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html\">PyTorch — Dataset and DataLoader</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://pandas.pydata.org/docs/user_guide/window.html\">Pandas — rolling and exponentially weighted windows</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement a window generator with assertions for start, prediction, and label-end timestamps.</li><li>Create both session-bounded and naive cross-session windows, then count the invalid examples.</li><li>Compare standardized features using train-only scaling versus a permitted trailing normalization.</li></ol><h3>Common mistakes and interpretation</h3><p>A fixed lookback of 100 events has changing wall-clock duration, and passing through market closures can introduce fictitious temporal continuity.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a tested sequence Dataset and a printed example showing exactly which timestamps enter one prediction.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        25,
+        19,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 34,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Train a compact LSTM on feature sequences",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>Train a compact LSTM classifier using the sequence Dataset created yesterday. Start with one LSTM layer, a small hidden dimension, and a linear classifier on the final hidden state. Use cross-entropy logits, gradient clipping, a stable learning rate, and validation-based early stopping. Evaluate by date as well as overall. Compare training/inference cost against the simple tabular baseline. If a GPU is unavailable, reduce sequence length and sample count; the point is to demonstrate sound modeling, not maximize parameter count.</p><h3>Worked market example</h3><p>With 20-event windows, 16 features, hidden size 32, and binary targets, you can often train a demonstrative classifier on a modest sample using CPU.</p><h3>What to read</h3><ul><li><a href=\"https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html\">PyTorch — torch.nn.LSTM reference</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html\">PyTorch — optimization and training loop</a></li><li><a href=\"https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html\">PyTorch — Dataset and DataLoader</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement and train a one-layer LSTM with correct batch/sequence/feature axes.</li><li>Record training and validation curves and evaluate probabilities on a later interval.</li><li>Inspect one failure regime, such as the opening minute or a very wide-spread period.</li></ol><h3>Common mistakes and interpretation</h3><p>If training windows overlap strongly, random batching is fine within training data but random train/test splitting of windows is not.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a reproducible LSTM experiment card listing architecture, loss, metrics, and limitations.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        27,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 35,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Compare performance against XGBoost under identical splits",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>The question is not whether deep learning is fashionable, but whether sequence modeling contributes information beyond carefully engineered lag features. Build XGBoost features representing the same lookback history: lagged imbalance, summary means, volatility, and event counts. Evaluate that model and the LSTM on identical prediction timestamps, labels, and folds. Report quality, runtime, model complexity, and failure patterns across sessions. Small improvements may be statistically ambiguous, and a simpler model can be preferable for real-time systems.</p><h3>Worked market example</h3><p>A sequence network could outperform on event-heavy sessions but lag on quiet sessions. A single pooled score would hide that asymmetry and might bias a deployment decision.</p><h3>What to read</h3><ul><li><a href=\"https://xgboost.readthedocs.io/en/stable/python/python_intro.html\">XGBoost — official Python tutorial</a></li><li><a href=\"https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html\">PyTorch — torch.nn.LSTM reference</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create lag and trailing-summary features from the exact input windows used by the LSTM.</li><li>Run both models on the same chronological folds; save side-by-side probability predictions.</li><li>Summarize improvements by session and give a reasoned deployment recommendation.</li></ol><h3>Common mistakes and interpretation</h3><p>If the sequence model was tuned over many trials and XGBoost was not, the comparison is not yet controlled. Record search effort.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 7 with a model-comparison memo that is honest about performance uncertainty and operational costs.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        14,
+        27,
+        15
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 36,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Block bootstrap and dependence-aware uncertainty",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>Market observations within the same trading session are correlated. Ordinary row-wise bootstrap resampling destroys that dependence and can produce unrealistically narrow confidence intervals. Block bootstrapping resamples contiguous blocks or whole sessions to preserve some temporal structure; choosing block length requires judgment about dependence scale. An alternative is grouping by independent trading days where enough days exist. Start with a point estimate such as average directional log loss improvement or conditional return, then generate a bootstrap distribution from entire days. Explain assumptions and limitations rather than treating the confidence interval as a magic number.</p><h3>Worked market example</h3><p>If 100,000 events come from only two sessions, resampling events as if they were independent overstates the amount of independent information. Two independent days cannot support confident generalization.</p><h3>What to read</h3><ul><li><a href=\"https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html\">SciPy — bootstrap confidence intervals</a></li><li><a href=\"https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html\">SciPy — bootstrap resampling implementation</a></li><li><a href=\"https://www.openintro.org/book/os/\">OpenIntro Statistics — free textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Compare row bootstrap with day-level resampling on a synthetic dataset with common daily shocks.</li><li>Implement a simple day-block bootstrap for model metric differences.</li><li>Plot bootstrap metric distributions and report effective day counts.</li></ol><h3>Common mistakes and interpretation</h3><p>Day resampling does not remove all serial dependence, and two or three independent days are too few for precise tail inference.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a small resampling utility with a test that sampled blocks stay intact and a written uncertainty interpretation.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 37,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Information coefficient, calibration and stability by regime",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Information coefficient (IC) usually refers to a correlation between model scores and later outcomes, often a rank correlation for cross-sectional forecasting. In an event-level single-instrument setting, define the exact counterpart you measure instead of importing cross-sectional terminology casually. Calibration assesses whether predicted probabilities match realized frequencies; a calibration chart should be split by liquidity or volatility regime as well as over the full sample. Stability involves both predictive sign and score distributions across dates. Distinguish conditional association from economic utility after costs.</p><h3>Worked market example</h3><p>A model can have positive overall rank correlation but be badly calibrated: its 0.8-probability predictions may be correct only 0.55 of the time in wide-spread regimes.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/calibration.html\">Scikit-learn — probability calibration and reliability diagrams</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li><li><a href=\"https://otexts.com/fpp3/\">Forecasting: Principles and Practice — free online textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Calculate Pearson or Spearman correlations between scores and forward returns on held-out records.</li><li>Make reliability diagrams separately for low- and high-volatility periods.</li><li>Report metric levels and sample sizes by week or trading session.</li></ol><h3>Common mistakes and interpretation</h3><p>Autocorrelation and repeated observations invalidate simple textbook significance approximations; use dependence-aware evaluation learned yesterday.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce an IC/calibration/regime dashboard with a paragraph explaining the unit and interpretation of each metric.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        31,
+        15,
+        47
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 38,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Multiple-hypothesis testing and realistic effect sizes",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>When you test many indicators, horizons, assets, hyperparameters, and thresholds, the best observed result is systematically too optimistic. Multiple-comparison corrections control different error rates: Bonferroni limits family-wise error; Benjamini–Hochberg targets false discovery rate under its conditions. More importantly, preregister hypotheses and reserve untouched data for a final confirmation. Convert observed improvements into economically meaningful units: basis points per trade, expected number of opportunities, and reasonable costs. A tiny significant mid-price effect may be commercially uninteresting.</p><h3>Worked market example</h3><p>Trying 200 independent useless strategies at a 5% nominal threshold yields around ten false positives on average; selecting the smallest p-value compounds the problem.</p><h3>What to read</h3><ul><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html\">Statsmodels — multiple-test correction</a></li><li><a href=\"https://www.statlearning.com/\">Introduction to Statistical Learning — free textbook</a></li><li><a href=\"https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html\">SciPy tutorial — hypothesis tests</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Simulate 200 null signals and plot the distribution of the best observed p-value.</li><li>Apply two multiple-test corrections and report surviving hypotheses.</li><li>Translate a conditional 0.5-bp forecast edge into a cost-sensitive illustrative trade comparison.</li></ol><h3>Common mistakes and interpretation</h3><p>Corrected p-values are not protection against market nonstationarity, leakage, or changing the research hypothesis after seeing results.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Submit a research-log template that tracks every evaluated feature, horizon, and threshold—not only the winners.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        32,
+        42,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 39,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Test signal robustness across dates and instruments",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>Robustness is the ability of an effect to survive meaningful changes in data without changing the hypothesis after observing the answer. Test by held-out date, instrument, liquidity regime, horizon, and feature family, but be careful: a cross-asset dataset may have different tick sizes, trading sessions, and microstructure. Normalize spread in ticks or basis points when comparing instruments. If only one public dataset is available, use distinct trading sessions and document the narrowness of the evidence rather than claiming cross-instrument generality.</p><h3>Worked market example</h3><p>A signal profitable only on one highly liquid ETF sample from one morning should not be described as a general Futures/FX microstructure effect.</p><h3>What to read</h3><ul><li><a href=\"https://php.lobsterdata.com/info/DataSamples.php\">LOBSTER — free order-book sample files</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Evaluate a frozen model by date and liquidity bin using unmodified thresholds.</li><li>If available, compare a second licensed instrument with matched feature definitions.</li><li>Write a robustness table identifying stable signs, contradictory folds, and insufficient data.</li></ol><h3>Common mistakes and interpretation</h3><p>Changing the instrument and retuning the model each time does not test whether one frozen signal generalizes; it tests separate fits.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a robustness matrix and a list of external validity limitations grounded in actual sample coverage.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        51,
+        15,
+        19
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 40,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Compute uncertainty intervals and conduct ablation studies",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A final research memo needs effect estimates, uncertainty, and controlled ablations. Choose a primary metric and one baseline before the final evaluation; use session-level resampling to estimate the uncertainty of the improvement. Ablate feature families and report how much each changes results while keeping splits fixed. Also examine costs and operating constraints qualitatively if data cannot support an execution simulation. Negative results are valuable when the experiment is reproducible and limits are explicit.</p><h3>Worked market example</h3><p>A gain of +0.003 in AUC with a bootstrap interval of [-0.008,+0.013] indicates that the sign of the improvement is unsettled on the sampled sessions.</p><h3>What to read</h3><ul><li><a href=\"https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html\">SciPy — bootstrap confidence intervals</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html\">Statsmodels — multiple-test correction</a></li><li><a href=\"https://scikit-learn.org/stable/modules/permutation_importance.html\">Scikit-learn — permutation feature importance</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Generate day-level bootstrap intervals for model-versus-baseline metric differences.</li><li>Create a feature-family ablation table using the same walk-forward predictions.</li><li>Write a two-page research memo with method, effect size, intervals, failures, and next experiment.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not present intervals computed after selecting the strongest result as if the selection step never happened.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 8 with a publication-quality table, uncertainty plot, and written limitations section.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        4,
+        32,
+        21
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 41,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Forecast scores vs. trade decisions",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>A predicted probability or forward return is an estimate of an outcome, not an instruction to buy or sell. A decision policy must specify the opportunity set, decision time, permitted instruments, trade side, expected execution price, and when positions close. Classification probability can be converted to expected move only if conditional move magnitudes are modeled or estimated. Compare a simple score threshold rule against a cost-aware rule. Include a flat state when the forecast is too weak to overcome estimated costs; abstaining is a valid decision.</p><h3>Worked market example</h3><p>A model predicts an upward move with probability 0.57, but if the expected upside is 0.4 bps while the round-trip cost is 1.2 bps, a buy decision can still have negative expectancy.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/classification_threshold.html\">Scikit-learn — tune the decision threshold</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Write a precise policy: observation, forecast, entry trigger, exit horizon, and no-trade condition.</li><li>Plot forecast scores against realized forward returns in validation data.</li><li>Compute approximate expected value after fees and spread for three example forecasts.</li></ol><h3>Common mistakes and interpretation</h3><p>A forecast at the mid-price does not imply a trade can enter or exit at mid. Avoid using unseen price moves to determine entry.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a policy specification separating predicted market outcome from executable trading action.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        34,
+        15,
+        36
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 42,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Threshold selection and position sizing",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Thresholds determine the tradeoff between signal strength, opportunity count, and execution cost. For a probability model, a 0.5 cutoff is not automatically optimal; set entry thresholds based on validation-only expected outcomes after cost assumptions. Position sizing determines exposure per forecast. Start with fixed notional or fixed unit positions before experimenting with probability-scaled size, which requires calibrated probabilities and risk controls. Define limits such as maximum position, inventory, loss stop, and no-trade spread threshold; justify each using a simple constrained policy.</p><h3>Worked market example</h3><p>If a round trip costs 2 bps, a strategy entering whenever predicted move exceeds 0.1 bp is structurally unconvincing. A higher threshold reduces trades but may improve expected net outcome.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/classification_threshold.html\">Scikit-learn — tune the decision threshold</a></li><li><a href=\"https://scikit-learn.org/stable/modules/calibration.html\">Scikit-learn — probability calibration and reliability diagrams</a></li><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Sweep several threshold levels using validation predictions, recording trade count and gross average return.</li><li>Subtract transparent cost estimates and plot net result versus threshold.</li><li>Implement capped fixed-size and score-weighted position sizes, then compare concentration.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not choose a threshold using the final test. Avoid leverage optimization before you have reliable out-of-sample predictive evidence.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Save a selected threshold with its validation rationale, maximum exposure, and no-trade rules.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        34,
+        31,
+        36
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 43,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Turnover, holding periods and risk constraints",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Turnover measures trading activity relative to portfolio size, and holding period controls how often spreads and fees are paid. Even an accurate short-horizon signal can lose money if every small price move triggers a trade. Risk constraints include gross and net inventory, max single-instrument exposure, time-in-position, participation limits, and session stop rules. Determine whether consecutive model scores represent independent opportunities or repeated signals while an existing position remains open. Implement policies as explicit state transitions rather than backfilling trade decisions into a PnL column.</p><h3>Worked market example</h3><p>If a strategy buys then sells every ten seconds, it may capture 0.3 bps on average in mid-price movement but incur a one-tick spread each round trip, overwhelming the apparent edge.</p><h3>What to read</h3><ul><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://github.com/ranaroussi/quantstats\">QuantStats — performance metrics and reports</a></li><li><a href=\"https://scikit-learn.org/stable/modules/classification_threshold.html\">Scikit-learn — tune the decision threshold</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Compute turnover and average holding period for a simple sequence of long/flat/short states.</li><li>Implement maximum position and minimum holding-time constraints.</li><li>Plot inventory, trade count, and exposure by session under three policy variants.</li></ol><h3>Common mistakes and interpretation</h3><p>Overlapping positions and repeated forecasts can cause double-counting. Define whether reversals close an existing position before opening the opposite side.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce an executable state machine with tests for inventory caps and deterministic transitions.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        36,
+        35,
+        34
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 44,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Translate model forecasts into hypothetical long/short/flat signals",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>Converting forecasts to long/short/flat states requires a deterministic policy that reads predictions at their actual availability time. A symmetric rule might buy above an upper probability threshold, short below a lower threshold, and otherwise remain flat, but asymmetric spreads or shorting restrictions may justify different cutoffs. Specify whether the decision is a target position or an immediate order; the latter introduces fill uncertainty. Preserve a chronological event log of every decision and its inputs so backtesting can replay it without consulting future labels.</p><h3>Worked market example</h3><p>At t=100 a score of 0.64 may request long one unit. If the next score is 0.53 and the flat zone begins below 0.55, the policy requests exit—not necessarily a filled sale.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/classification_threshold.html\">Scikit-learn — tune the decision threshold</a></li><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://scikit-learn.org/stable/modules/compose.html\">Scikit-learn — pipelines and composite estimators</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement a pure function from current position and score to target long/short/flat state.</li><li>Generate a decision ledger with timestamp, score, threshold, and prior position.</li><li>Write unit tests for threshold equality, missing predictions, market close, and position limit behavior.</li></ol><h3>Common mistakes and interpretation</h3><p>Never populate decisions by iterating over future return columns. Model decisions and executions as separate records.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver an auditable signal ledger and state-transition tests ready to connect to a simulator.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        34,
+        36,
+        54
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 45,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Choose thresholds using training/validation data only",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>Threshold selection is part of model development and must be frozen before an untouched evaluation. Use walk-forward validation predictions to compare a small prespecified grid of cutoffs; calculate trades, gross edge, estimated costs, and net edge for each. Prefer a broad stable plateau over one narrow peak. Check sensitivity to doubled costs, wider spreads, and different sessions. Save the selected thresholds with a versioned policy definition and never recalibrate them based on the final test&#x27;s realized PnL.</p><h3>Worked market example</h3><p>A 0.62 entry threshold might appear best at 0.7 bps per trade, but thresholds 0.60–0.64 may be statistically indistinguishable. Choose a robust range rather than the most flattering point.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/classification_threshold.html\">Scikit-learn — tune the decision threshold</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html\">Statsmodels — multiple-test correction</a></li><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Evaluate a limited threshold grid on validation-only records using identical execution assumptions.</li><li>Plot estimated net bps/trade and number of trades against threshold.</li><li>Freeze the chosen policy, record its creation date, and generate a final-test command without retuning.</li></ol><h3>Common mistakes and interpretation</h3><p>Selecting the best of hundreds of thresholds is multiple testing; count the search and report the selection process.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 9 with a versioned score-to-position policy and a validation-only decision report.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        34,
+        32,
+        36
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 46,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Spread, fees, slippage, funding and adverse selection",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>Backtesting at the mid-price is often an optimistic accounting exercise. An aggressive buy normally executes against the ask, and an aggressive sell against the bid, introducing spread cost before commissions and fees. Slippage includes variation between intended and actual prices; market impact is your own order&#x27;s effect on price. Adverse selection occurs when the trades that fill are disproportionately those followed by unfavorable price moves. Futures, equities, and FX have different fee models and funding assumptions; express each in consistent price, ticks, or basis-point units.</p><h3>Worked market example</h3><p>If bid/ask is 100.00/100.02, a one-share market buy and immediate market sell loses 0.02 before fees, even though the mid-price has not moved.</p><h3>What to read</h3><ul><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Calculate transaction PnL for market buy/sell round trips at several spreads.</li><li>Implement configurable commissions and an additional slippage assumption per fill.</li><li>Compute gross and net returns for a toy signal and identify the break-even expected move.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not treat a midpoint crossing as a guaranteed fill. Validate that the market convention and currency units match the instrument.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a cost function with unit tests for long, short, and round-trip examples.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        36,
+        50,
+        46
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 47,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Latency, fills, queue position and market impact",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>A realistic fill model needs decision timestamp, submission delay, venue arrival time, order type, and available liquidity. A market order may cross a spread and walk depth; a limit order enters a queue, and a later touch of its price does not prove a fill. Queue position often cannot be reconstructed accurately from aggregated L2 snapshots; mark the simulation as a conservative approximation. Adverse selection can make passive fills look cheap while subsequent prices move against you. Test how outcomes change when execution latency increases and fill probability decreases.</p><h3>Worked market example</h3><p>An order posted at the best bid is not filled simply because a later trade prints at that bid. Older orders ahead in the queue may have priority.</p><h3>What to read</h3><ul><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://arxiv.org/abs/1011.6402\">Cont, Kukanov &amp; Stoikov — The Price Impact of Order Book Events</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Sketch the timeline from model observation to order arrival and fill/cancel.</li><li>Implement aggressive fills at the next eligible displayed quote, with configurable latency.</li><li>Compare optimistic passive, conservative passive, and aggressive execution assumptions on toy events.</li></ol><h3>Common mistakes and interpretation</h3><p>Avoid claiming exchange-level fill realism from L2 data. Do not execute using a quote that precedes the modeled order-arrival time.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver fill-model assumptions in plain language and tests demonstrating outcomes under added latency.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        50,
+        36,
+        46
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 48,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Sharpe, drawdown, turnover and capacity",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Sharpe ratio measures average excess return per unit of return volatility under chosen sampling assumptions; blindly annualizing irregular intraday strategy returns can be misleading. Maximum drawdown measures the largest peak-to-trough equity decline. Turnover counts how aggressively exposure changes, and capacity asks whether the strategy still works at greater size when liquidity and impact matter. Report trade count, mean net bps, hit rate, exposure time, drawdown, and cost sensitivity, not a lone Sharpe number. Distinguish profit per trade from portfolio returns with a defined capital base.</p><h3>Worked market example</h3><p>A strategy with a high gross win rate and very few trades may produce a fragile Sharpe estimate; one large losing fill can dominate realized drawdown.</p><h3>What to read</h3><ul><li><a href=\"https://github.com/ranaroussi/quantstats\">QuantStats — performance metrics and reports</a></li><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://www.statsmodels.org/stable/stats.html\">Statsmodels — statistical inference and tests</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Calculate cumulative net PnL and maximum drawdown on a synthetic series.</li><li>Compute turnover, trading frequency, and per-trade net bps from execution records.</li><li>Write a dashboard with Sharpe assumptions, session PnL, and trade counts clearly labeled.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not annualize per-trade returns as if they were daily independent portfolio returns; explain the sampling frequency and capital denominator.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Provide a metric definition sheet and a backtest performance report with drawdown and cost sensitivity.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        35,
+        36,
+        6
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 49,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Develop a conservative event-driven simulator",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>An event-driven simulator processes ordered events rather than applying vectorized future returns to a signal column. Design a minimal engine with market-data events, model-signal events, order requests, fills, and portfolio updates. At each timestamp, record what the policy knows, update outstanding orders, simulate eligible execution using later market states, and then mark inventory to market. Keep decision time, arrival time, and fill time separate. For a 60-minute build, prioritize correct event order and tests over a full exchange matching engine.</p><h3>Worked market example</h3><p>A signal created at 10:00:00.100 with 50 ms latency cannot fill using the 10:00:00.110 quote. The first eligible market data comes after 10:00:00.150.</p><h3>What to read</h3><ul><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://php.lobsterdata.com/info/DataStructure.php\">LOBSTER — event and order-book field definitions</a></li><li><a href=\"https://github.com/ranaroussi/quantstats\">QuantStats — performance metrics and reports</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Define simple dataclasses for Quote, Signal, Order, Fill, and PortfolioState.</li><li>Implement chronological event processing and marketable-order execution with fixed latency.</li><li>Write tests that prohibit fills before arrival and verify cash/inventory reconciliation.</li></ol><h3>Common mistakes and interpretation</h3><p>This is not a complete exchange simulator: queue position, hidden liquidity, partial fills, and cross-venue routing may remain approximated.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish with a reproducible toy replay and a fill ledger proving the event-order constraints.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        36,
+        50,
+        35
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 50,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Report net results under pessimistic cost assumptions",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A convincing quantitative research report shows what remains after conservative trading assumptions. Evaluate a frozen signal under base, adverse, and severe scenarios: tighter versus wider spreads, higher fees, additional latency, lower fill rates, and reduced participation. Distinguish realized sample PnL from claims about future performance. Present the distribution of daily net outcomes, not just cumulative equity. If simulated profitability disappears under plausible costs, write that plainly and analyze whether the project still demonstrates valuable predictive or engineering insights.</p><h3>Worked market example</h3><p>A gross average of +1.4 bps/trade becomes -0.3 bps after 1.7 bps costs. Doubling spread cost to 2.8 bps makes the weakness clearer, regardless of the predictive accuracy.</p><h3>What to read</h3><ul><li><a href=\"https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/\">QuantStart — event-driven backtesting in Python</a></li><li><a href=\"https://github.com/ranaroussi/quantstats\">QuantStats — performance metrics and reports</a></li><li><a href=\"https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html\">Statsmodels — multiple-test correction</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Run your frozen signal through three explicit cost and latency scenarios.</li><li>Calculate net bps/trade, turnover, and drawdown for each scenario.</li><li>Write a conclusion separating forecasting success from economically executable strategy success.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not quietly optimize the signal again after observing the harsh scenario results; that requires a new experiment with a new evaluation period.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver Week 10’s backtest report with a scenario table, execution assumptions, and independent reproducibility steps.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        36,
+        35,
+        32
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 51,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Financial text embeddings and retrieval",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>A text embedding converts a sentence or document into a fixed-length numeric vector intended to capture semantic similarity. Sentence Transformers can encode financial headlines, filing excerpts, and short event descriptions, but general-purpose embeddings are not trained specifically to predict returns. Retrieval ranks documents by similarity to a query; it is useful for exploring disclosures or identifying related events, not evidence of market forecasting power. Define the text unit, tokenizer/truncation behavior, and embedding model version. Document usage rights and avoid storing confidential news content in a public repository.</p><h3>Worked market example</h3><p>The phrases “guidance raised” and “earnings outlook improved” may yield similar embeddings, while “guidance cut” should ideally rank differently; semantic similarity alone does not encode a correct trading direction.</p><h3>What to read</h3><ul><li><a href=\"https://www.sbert.net/docs/quickstart.html\">Sentence Transformers — quickstart and embeddings</a></li><li><a href=\"https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html\">Sentence Transformers — semantic search</a></li><li><a href=\"https://huggingface.co/learn/llm-course/chapter1/1\">Hugging Face — LLM course</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Encode ten short public or synthetic financial headlines and calculate cosine similarities.</li><li>Retrieve top three closest items for two research queries and inspect ranking errors.</li><li>Store embedding model version, text timestamp, and source metadata alongside vectors.</li></ol><h3>Common mistakes and interpretation</h3><p>Similarity is not truth, causation, or contemporaneous availability. General text embedding models may overfit to familiar names and phrases.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a small searchable text collection and a written error analysis of two retrieval examples.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        37,
+        59,
+        38
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 52,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "LLM evaluation, timestamps and point-in-time availability",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Financial text creates severe point-in-time leakage risks. A filing&#x27;s fiscal-period end is not its public filing timestamp; a headline may be updated after initial release, and a model may have been pretrained on events from later periods. Every document needs publication timestamp, access timestamp, version, and source. For an LLM-based labeling task, define a small rubric and evaluate outputs against manually checked labels. Measure agreement, invalid JSON rate, sensitivity to phrasing, and runtime or API cost. An impressive generated explanation is not the same as a timestamp-correct, validated signal.</p><h3>Worked market example</h3><p>A company&#x27;s 10-Q covering the quarter ending March 31 may be filed in May. Using its reported figures for a trading decision in early April is look-ahead leakage.</p><h3>What to read</h3><ul><li><a href=\"https://www.sec.gov/search-filings/edgar-application-programming-interfaces\">SEC EDGAR — submissions and companyfacts APIs</a></li><li><a href=\"https://www.sec.gov/search-filings\">SEC — search public EDGAR filings</a></li><li><a href=\"https://scikit-learn.org/stable/modules/model_evaluation.html\">Scikit-learn — classification and probability metrics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Inspect SEC filing metadata and distinguish report period, filing date, and available-as-of timestamp.</li><li>Write a small rubric for classifying filing headlines as positive, negative, or neutral.</li><li>Evaluate 20 synthetic or public excerpts with confusion matrix and error categories.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not feed unpublished or employer-confidential information to a third-party model. Respect source licensing, request limits, and document revisions.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a timestamp schema, labeling rubric, and a small evaluation report with false positives/negatives.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        39,
+        60,
+        15
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 53,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Combining text signals with numeric market features",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>Numeric market features and text features live on different clocks. To combine them, join each market observation only with a document that was publicly available before the model decision cutoff. Start with interpretable low-dimensional text indicators: event category, signed sentiment proxy, or a compressed embedding, rather than concatenating huge vectors to a tiny dataset. Compare a numeric-only model against numeric-plus-text using the same chronological folds and cost assumptions. Any observed improvement must survive date-based evaluation and reasonable controls for announcement timing.</p><h3>Worked market example</h3><p>If an earnings headline is first available at 16:05, its features must not be joined to the same company&#x27;s 15:59 market observations. A naïve date-based join would leak it.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/compose.html#columntransformer-for-heterogeneous-data\">Scikit-learn — ColumnTransformer for mixed data</a></li><li><a href=\"https://www.sec.gov/search-filings/edgar-application-programming-interfaces\">SEC EDGAR — submissions and companyfacts APIs</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Implement an as-of join using timestamped market observations and a tiny filings event table.</li><li>Build numeric-only and numeric-plus-text feature matrices for the same labeled events.</li><li>Test that advancing a document publication time removes it from earlier forecasts.</li></ol><h3>Common mistakes and interpretation</h3><p>Text signals are sparse and market reactions occur quickly; generalization from a handful of news events is very limited.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Submit a point-in-time join with explicit tests and an ablation table showing whether text adds value.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        40,
+        39,
+        19
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 54,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Prototype a public-news or filing-based signal experiment",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>Prototype a small event study from public SEC filings rather than an unconstrained scraping project. Choose one filing type, collect a few document records with accession IDs and filing timestamps, and create a reproducible feature based on public filing text or metadata. Align events with a permitted daily price series and investigate price behavior after—not before—the publication window. If intraday timing or market price data is unavailable, frame the result as an educational event study rather than a real-time strategy. Define a control period to account for broad market moves.</p><h3>Worked market example</h3><p>A filing released at 18:20 ET should be compared with later eligible market returns; using that day’s close-to-close return may include movement that happened before the filing.</p><h3>What to read</h3><ul><li><a href=\"https://www.sec.gov/search-filings/edgar-application-programming-interfaces\">SEC EDGAR — submissions and companyfacts APIs</a></li><li><a href=\"https://www.sec.gov/search-filings\">SEC — search public EDGAR filings</a></li><li><a href=\"https://pandas.pydata.org/docs/user_guide/basics.html#descriptive-statistics\">Pandas — descriptive statistics</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Query or download a small public EDGAR filings sample with documented access policy.</li><li>Record accepted-time and event identifiers, and build a simple text/event feature.</li><li>Create an event-time table of later available returns with missingness and selection notes.</li></ol><h3>Common mistakes and interpretation</h3><p>SEC APIs have access rules and JSON schemas that change; use official documentation and do not scrape at high rates. Keep the sample modest.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a notebook with a few traceable filing events, timestamp-aware joins, and a limitations section.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        39,
+        60,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 55,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Test whether text features add incremental out-of-sample value",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>Incremental value is the improvement contributed by text after accounting for the numeric features already known. Evaluate three models: numeric baseline, text-only, and combined features, using identical dates, labels, and thresholds. Use a frozen embedding or classification method to limit the number of tuned components. Report both the metric difference and its uncertainty across event dates. If your sample is too small for trustworthy trading conclusions, present the pipeline and falsifiable research hypothesis rather than inventing a positive result.</p><h3>Worked market example</h3><p>Numeric features alone may produce log loss 0.691; adding text might yield 0.690 on ten event days. That tiny change is not convincing without wider, independent testing.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/modules/compose.html#columntransformer-for-heterogeneous-data\">Scikit-learn — ColumnTransformer for mixed data</a></li><li><a href=\"https://scikit-learn.org/stable/modules/calibration.html\">Scikit-learn — probability calibration and reliability diagrams</a></li><li><a href=\"https://www.sec.gov/search-filings/edgar-application-programming-interfaces\">SEC EDGAR — submissions and companyfacts APIs</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Train the three model variants under a shared chronological protocol.</li><li>Ablate the text features and compute differences in log loss and Brier score.</li><li>Inspect two cases where text helped and two where it hurt, and identify possible confounders.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not treat random textual document splits as out-of-sample trading evaluation; events in a company or period may be closely related.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish Week 11 with a small multimodal research note including negative or inconclusive findings honestly.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        40,
+        31,
+        39
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 56,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Research reports and experiment reproducibility",
+      "total_time": 60,
+      "order": 1,
+      "description": "<h3>Core lesson</h3><p>A research report is an argument supported by reproducible evidence, not a dashboard of attractive figures. State a falsifiable question, describe data provenance and limitations, define features and targets mathematically, record chronological evaluation design, and compare models against baselines. Report metrics with uncertainty and cost assumptions. An experiment manifest should include code commit, data hash or accessible source, random seed, dependency versions, split IDs, and exact run command. A reader should be able to distinguish what was known before training from what was selected afterward.</p><h3>Worked market example</h3><p>A claim such as “LSTM is better” is incomplete. A reproducible claim is: “On the frozen last-three-session test, the LSTM reduced mean log loss by 0.002 relative to logistic regression; day-block CI includes zero.”</p><h3>What to read</h3><ul><li><a href=\"https://mlflow.org/docs/latest/ml/tracking/\">MLflow — experiment tracking</a></li><li><a href=\"https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\">GitHub — repository README documentation</a></li><li><a href=\"https://www.statlearning.com/\">Introduction to Statistical Learning — free textbook</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Draft a report outline with question, hypotheses, data, methods, results, and limitations.</li><li>Record command-line parameters, dependency lockfile, and dataset lineage for one experiment.</li><li>Reproduce a summary table from a clean environment or second checkout.</li></ol><h3>Common mistakes and interpretation</h3><p>A single published notebook is not necessarily reproducible if it silently requires proprietary data, an absolute path, or undocumented preprocessing.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Produce a research-paper-style methods section and evidence that another run reproduces key results.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        41,
+        44,
+        42
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 57,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Quant probability and statistics interview topics",
+      "total_time": 60,
+      "order": 2,
+      "description": "<h3>Core lesson</h3><p>Quant interviews commonly test conditional probability, expectation, independence, confidence intervals, linear regression, probability calibration, and time-series validation. They also evaluate whether you can reason from first principles under uncertainty. Practice separating a statistical model&#x27;s assumptions from the numerical answer. For coding questions, write correct Python with time-complexity reasoning, but allocate more interview time to the mathematical intuition you are developing. Use market examples only when they genuinely illuminate the probability problem.</p><h3>Worked market example</h3><p>A test has 95% sensitivity and 95% specificity for a condition that occurs 1% of the time. The probability of the condition after a positive test is much lower than 95%; calculate it using Bayes’ theorem.</p><h3>What to read</h3><ul><li><a href=\"https://www.openintro.org/book/os/\">OpenIntro Statistics — free textbook</a></li><li><a href=\"https://www.statlearning.com/\">Introduction to Statistical Learning — free textbook</a></li><li><a href=\"https://developers.google.com/machine-learning/crash-course\">Google — machine learning crash course</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Solve three Bayes/conditional-probability questions without code, then verify with Python.</li><li>Derive ordinary least-squares loss and explain regularization qualitatively.</li><li>Describe how you would validate an imbalance predictor on serially correlated data.</li></ol><h3>Common mistakes and interpretation</h3><p>Memorized formulas without explaining the sample space or assumptions will fail harder research discussions.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Prepare three written explanations and practice presenting each aloud in under four minutes.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        2,
+        42,
+        43
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 58,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Explaining model limitations and business relevance",
+      "total_time": 60,
+      "order": 3,
+      "description": "<h3>Core lesson</h3><p>A credible researcher explains what the model cannot establish. Forecast performance is conditioned on a dataset, horizon, regime, selection process, and implementation. Discuss drift, survivorship bias, limited instrument coverage, unreliable fill simulation, and uncertainty around costs. Translate engineering tradeoffs into business relevance: a small AUC improvement may be worth less than lower latency or more robust behavior. State risk of loss and monitoring requirements without implying profits. Your production market-data experience is valuable because it helps identify silent data issues before they become false research discoveries.</p><h3>Worked market example</h3><p>A model that improves log loss but takes 30 ms longer to infer may be unusable for a strategy whose opportunity window is only a few milliseconds.</p><h3>What to read</h3><ul><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://github.com/ranaroussi/quantstats\">QuantStats — performance metrics and reports</a></li><li><a href=\"https://mlflow.org/docs/latest/ml/tracking/\">MLflow — experiment tracking</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Write a limitations section distinguishing statistical, data, and execution risks.</li><li>Create a decision memo comparing a simple model against the strongest ML model on performance and latency.</li><li>Prepare an explanation of when you would stop a strategy or revert to a baseline in production.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not claim causality or realistic capacity from a public one-day sample. Make uncertainty explicit and quantified where possible.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Deliver a two-minute spoken summary and a written model-risk checklist grounded in your actual experiments.</p>",
+      "tags": [
+        1
+      ],
+      "links": [
+        19,
+        35,
+        41
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 59,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Prepare polished GitHub repository and research report",
+      "total_time": 60,
+      "order": 4,
+      "description": "<h3>Core lesson</h3><p>A professional portfolio needs a discoverable narrative and runnable implementation. Organize your repository around data ingest, schema validation, features, split generation, model training, evaluation, simulator, tests, and reports. Include an environment setup, sample dataset instructions, legal/licensing limitations, and exact commands to regenerate plots. Keep configuration separate from code and avoid absolute paths. Explain the research question and negative results prominently in README, rather than burying them in notebook outputs. Use small public or synthetic fixtures for unit tests.</p><h3>Worked market example</h3><p>A hiring manager should be able to open README, run one short command on a synthetic sample, and see a baseline evaluation with a clear statement that it is a demonstration, not a proven alpha.</p><h3>What to read</h3><ul><li><a href=\"https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\">GitHub — repository README documentation</a></li><li><a href=\"https://mlflow.org/docs/latest/ml/tracking/\">MLflow — experiment tracking</a></li><li><a href=\"https://php.lobsterdata.com/info/DataSamples.php\">LOBSTER — free order-book sample files</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Create a clean repository tree and document dataset acquisition without redistributing restricted files.</li><li>Add a one-command small reproducible experiment and run it in a fresh virtual environment.</li><li>Publish a concise report with model comparisons, confidence intervals, and backtest assumptions.</li></ol><h3>Common mistakes and interpretation</h3><p>Never commit company code, data, secrets, credentials, or proprietary modeling details. Review Git history before publishing.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Finish with a public or safely shareable portfolio repository and an independently reproducible example.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        44,
+        41,
+        51
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 60,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Practice research defense and apply to suitable roles",
+      "total_time": 60,
+      "order": 5,
+      "description": "<h3>Core lesson</h3><p>A research defense tests whether you truly understand experimental choices. Practice answering why you selected the label horizon, which split prevents leakage, whether imbalance adds value beyond price momentum, how much uncertainty remains, and which cost assumptions invalidate trading profitability. Connect your background in FIX, market-data normalization, HDF5 backtesting, and distributed Python to the new research stack without claiming professional alpha research you have not done. Target quant research engineering and applied ML research roles initially, then deeper researcher roles as evidence grows.</p><h3>Worked market example</h3><p>An interviewer asks why random-split AUC exceeded walk-forward AUC. A strong answer identifies dependence and possible leakage, describes controlled tests, and acknowledges genuine distribution shift as another explanation.</p><h3>What to read</h3><ul><li><a href=\"https://www.statlearning.com/\">Introduction to Statistical Learning — free textbook</a></li><li><a href=\"https://scikit-learn.org/stable/common_pitfalls.html\">Scikit-learn — common pitfalls and leakage</a></li><li><a href=\"https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\">GitHub — repository README documentation</a></li></ul><h3>Your 60-minute study session</h3><p>15 minutes: read the linked source and take notes on definitions and assumptions; 10 minutes: reproduce the worked example by hand or in Python; 30 minutes: complete the scoped implementation tasks; 5 minutes: record your evidence, limitations, and follow-up questions.</p><h3>Hands-on exercises</h3><ol><li>Deliver a five-minute project defense including question, data, methods, result, and failures.</li><li>Answer ten technical follow-ups about probability, validation, microstructure, costs, and reproducibility.</li><li>Draft tailored resume bullets and identify target role requirements that your portfolio does and does not yet demonstrate.</li></ol><h3>Common mistakes and interpretation</h3><p>Do not claim guaranteed performance or senior quant research experience merely because the software is production-quality.</p><h3>Checkpoint before completion</h3><p><strong>Evidence to save:</strong> Complete Week 12 with a final research deck, interview answer bank, and a prioritized application list.</p>",
+      "tags": [
+        2
+      ],
+      "links": [
+        42,
+        19,
+        44
+      ]
+    }
+  }
+]

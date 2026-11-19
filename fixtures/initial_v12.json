@@ -1,0 +1,5827 @@
+[
+  {
+    "model": "curriculum.tag",
+    "pk": 1,
+    "fields": {
+      "name": "probability"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 2,
+    "fields": {
+      "name": "theory"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 3,
+    "fields": {
+      "name": "practice"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 4,
+    "fields": {
+      "name": "bayesian"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 5,
+    "fields": {
+      "name": "finance"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 6,
+    "fields": {
+      "name": "simulation"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 7,
+    "fields": {
+      "name": "python"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 8,
+    "fields": {
+      "name": "linear-algebra"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 9,
+    "fields": {
+      "name": "regression"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 10,
+    "fields": {
+      "name": "interview"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 11,
+    "fields": {
+      "name": "project"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 12,
+    "fields": {
+      "name": "statistics"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 13,
+    "fields": {
+      "name": "backtesting"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 14,
+    "fields": {
+      "name": "cross-validation"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 15,
+    "fields": {
+      "name": "machine-learning"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 16,
+    "fields": {
+      "name": "time-series"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 17,
+    "fields": {
+      "name": "financial-ml"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 18,
+    "fields": {
+      "name": "deep-learning"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 19,
+    "fields": {
+      "name": "volatility"
+    }
+  },
+  {
+    "model": "curriculum.tag",
+    "pk": 20,
+    "fields": {
+      "name": "coding"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 1,
+    "fields": {
+      "url": "http://probabilitybook.net"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 2,
+    "fields": {
+      "url": "https://stat110.hsites.harvard.edu/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 3,
+    "fields": {
+      "url": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 4,
+    "fields": {
+      "url": "https://docs.scipy.org/doc/scipy/reference/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 5,
+    "fields": {
+      "url": "https://github.com/ranaroussi/yfinance"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 6,
+    "fields": {
+      "url": "https://numpy.org/doc/stable/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 7,
+    "fields": {
+      "url": "https://www.edx.org/course/introduction-to-probability-0"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 8,
+    "fields": {
+      "url": "https://www.stat.cmu.edu/~larry/all-of-statistics/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 9,
+    "fields": {
+      "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 10,
+    "fields": {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 11,
+    "fields": {
+      "url": "https://hastie.su.domains/ElemStatLearn/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 12,
+    "fields": {
+      "url": "https://www.statsmodels.org/stable/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 13,
+    "fields": {
+      "url": "https://www.statlearning.com"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 14,
+    "fields": {
+      "url": "https://github.com/intro-stat-learning/ISLP_labs"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 15,
+    "fields": {
+      "url": "https://pandas.pydata.org/docs/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 16,
+    "fields": {
+      "url": "https://scikit-learn.org/stable/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 17,
+    "fields": {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3104816"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 18,
+    "fields": {
+      "url": "https://xgboost.readthedocs.io/en/stable/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 19,
+    "fields": {
+      "url": "https://pytorch.org/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 20,
+    "fields": {
+      "url": "https://www.kaggle.com/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 21,
+    "fields": {
+      "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 22,
+    "fields": {
+      "url": "https://otexts.com/fpp3/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 23,
+    "fields": {
+      "url": "https://arch.readthedocs.io/en/latest/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 24,
+    "fields": {
+      "url": "https://www.quantresearch.org/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 25,
+    "fields": {
+      "url": "https://github.com/hudson-and-thames/mlfinlab"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 26,
+    "fields": {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 27,
+    "fields": {
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 28,
+    "fields": {
+      "url": "https://math.mit.edu/~gs/linearalgebra/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 29,
+    "fields": {
+      "url": "https://www.3blue1brown.com/topics/linear-algebra"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 30,
+    "fields": {
+      "url": "https://leetcode.com/"
+    }
+  },
+  {
+    "model": "curriculum.link",
+    "pk": 31,
+    "fields": {
+      "url": "https://www.investopedia.com/"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 1,
+    "fields": {
+      "name": "Probability and Counting",
+      "description": "Blitzstein & Hwang ch. 1. Sample spaces, the naive definition of probability, counting rules and the axioms."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 2,
+    "fields": {
+      "name": "Conditional Probability",
+      "description": "Blitzstein & Hwang ch. 2. Conditioning, Bayes' rule, independence and conditioning as a problem-solving tool."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 3,
+    "fields": {
+      "name": "Random Variables and Their Distributions",
+      "description": "Blitzstein & Hwang ch. 3. Random variables as functions, PMFs, CDFs and the first named discrete distributions."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 4,
+    "fields": {
+      "name": "Expectation",
+      "description": "Blitzstein & Hwang ch. 4. Expectation, linearity, indicator random variables, variance and the Poisson distribution."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 5,
+    "fields": {
+      "name": "Continuous Random Variables",
+      "description": "Blitzstein & Hwang ch. 5. Densities, the uniform, normal and exponential distributions, and the Poisson process."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 6,
+    "fields": {
+      "name": "Moments",
+      "description": "Blitzstein & Hwang ch. 6. Moments, skewness, kurtosis, moment generating functions and heavy-tailed returns."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 7,
+    "fields": {
+      "name": "Joint Distributions",
+      "description": "Blitzstein & Hwang ch. 7. Joint, marginal and conditional distributions, covariance, correlation and the multivariate normal."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 8,
+    "fields": {
+      "name": "Transformations",
+      "description": "Blitzstein & Hwang ch. 8. Change of variables, convolutions, Beta and Gamma distributions, and order statistics."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 9,
+    "fields": {
+      "name": "Conditional Expectation",
+      "description": "Blitzstein & Hwang ch. 9. Conditional expectation given an event or a random variable, Adam's and Eve's laws, and prediction."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 10,
+    "fields": {
+      "name": "Inequalities and Limit Theorems",
+      "description": "Blitzstein & Hwang ch. 10. Markov, Chebyshev, Jensen and Cauchy-Schwarz inequalities; the law of large numbers and the central limit theorem."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 11,
+    "fields": {
+      "name": "Markov Chains",
+      "description": "Blitzstein & Hwang ch. 11. The Markov property, transition matrices, stationary distributions and reversibility."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 12,
+    "fields": {
+      "name": "Probability Review and Consolidation",
+      "description": "Mixed review across all chapters plus a small simulation project to confirm the material is usable, not just read."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 13,
+    "fields": {
+      "name": "Convergence of Random Variables",
+      "description": "Wasserman ch. 5. Modes of convergence, the law of large numbers and CLT with proofs, and the delta method."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 14,
+    "fields": {
+      "name": "Models, Statistical Inference and Learning",
+      "description": "Wasserman ch. 6. Parametric and nonparametric models, point estimation, confidence sets and the vocabulary of inference."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 15,
+    "fields": {
+      "name": "Estimating the CDF and Statistical Functionals",
+      "description": "Wasserman ch. 7. The empirical distribution function, plug-in estimators and statistical functionals."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 16,
+    "fields": {
+      "name": "The Bootstrap",
+      "description": "Wasserman ch. 8. Bootstrap variance estimation and confidence intervals, with a finance application."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 17,
+    "fields": {
+      "name": "Parametric Inference",
+      "description": "Wasserman ch. 9. Method of moments, maximum likelihood, Fisher information and the Cramér-Rao bound."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 18,
+    "fields": {
+      "name": "Hypothesis Testing and p-values",
+      "description": "Wasserman ch. 10. The Neyman-Pearson framework, Wald, likelihood ratio and chi-square tests, p-values and multiple testing."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 19,
+    "fields": {
+      "name": "Bayesian Inference",
+      "description": "Wasserman ch. 11. Priors, posteriors, conjugacy, Bayesian intervals and the Bayesian view of regularization."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 20,
+    "fields": {
+      "name": "Statistical Decision Theory",
+      "description": "Wasserman ch. 12. Loss and risk, Bayes and minimax estimators, admissibility and James-Stein shrinkage."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 21,
+    "fields": {
+      "name": "Linear and Logistic Regression",
+      "description": "Wasserman ch. 13. Least squares in matrix form, inference for coefficients, model selection and logistic regression."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 22,
+    "fields": {
+      "name": "Statistics Review and Hypothesis-Testing Project",
+      "description": "Consolidate inference with a small project that tests a trading hypothesis properly."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 23,
+    "fields": {
+      "name": "Statistical Learning",
+      "description": "ISLP ch. 2. What statistical learning is, the bias-variance trade-off and how to assess model accuracy."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 24,
+    "fields": {
+      "name": "Linear Regression",
+      "description": "ISLP ch. 3. Simple and multiple linear regression, interactions, qualitative predictors and diagnostics."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 25,
+    "fields": {
+      "name": "Classification",
+      "description": "ISLP ch. 4. Logistic regression, discriminant analysis, naive Bayes, KNN and generalized linear models."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 26,
+    "fields": {
+      "name": "Resampling Methods",
+      "description": "ISLP ch. 5. Cross-validation and the bootstrap, and why standard cross-validation breaks on time series."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 27,
+    "fields": {
+      "name": "Linear Model Selection and Regularization",
+      "description": "ISLP ch. 6. Subset selection, ridge, lasso, dimension reduction and high-dimensional data."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 28,
+    "fields": {
+      "name": "Tree-Based Methods",
+      "description": "ISLP ch. 8. Decision trees, bagging, random forests, boosting and BART."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 29,
+    "fields": {
+      "name": "Deep Learning",
+      "description": "ISLP ch. 10. Neural networks, convolutional and recurrent architectures, and how networks are fitted."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 30,
+    "fields": {
+      "name": "Unsupervised Learning",
+      "description": "ISLP ch. 12. Principal components, clustering and matrix completion."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 31,
+    "fields": {
+      "name": "Multiple Testing",
+      "description": "ISLP ch. 13. Family-wise error rate, false discovery rate and resampling approaches, applied to strategy selection."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 32,
+    "fields": {
+      "name": "ISLP Project: Return Prediction with Walk-Forward Validation",
+      "description": "Apply the ISLP toolkit to real market data with honest validation."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 33,
+    "fields": {
+      "name": "Financial Time Series and Their Characteristics",
+      "description": "Tsay ch. 1. Asset returns, their distributional properties and the stylized facts of financial data."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 34,
+    "fields": {
+      "name": "Linear Time Series Analysis",
+      "description": "Tsay ch. 2 (Hyndman ch. 2, 5 and 9 as a gentler alternative). Stationarity, ARMA models, unit roots and forecasting."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 35,
+    "fields": {
+      "name": "Conditional Heteroscedastic Models",
+      "description": "Tsay ch. 3. ARCH and GARCH models for volatility clustering, asymmetric extensions and volatility forecasting."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 36,
+    "fields": {
+      "name": "Multivariate Time Series and Cointegration",
+      "description": "Tsay ch. 8. Vector autoregression, cointegration tests, error-correction models and pairs trading."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 37,
+    "fields": {
+      "name": "Principal Component Analysis and Factor Models",
+      "description": "Tsay ch. 9. PCA of return panels, statistical factor models and factor regressions."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 38,
+    "fields": {
+      "name": "State-Space Models and the Kalman Filter",
+      "description": "Tsay ch. 11. State-space representation, the Kalman filter and smoother, and time-varying parameter models."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 39,
+    "fields": {
+      "name": "Financial Data Structures",
+      "description": "AFML ch. 1-2. Why standard ML fails in finance and how to build information-driven bars."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 40,
+    "fields": {
+      "name": "Labeling",
+      "description": "AFML ch. 3. Fixed-horizon labels, the triple-barrier method and meta-labeling."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 41,
+    "fields": {
+      "name": "Sample Weights",
+      "description": "AFML ch. 4. Overlapping outcomes, label uniqueness, sequential bootstrap and time-decay weights."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 42,
+    "fields": {
+      "name": "Fractionally Differentiated Features",
+      "description": "AFML ch. 5. The stationarity-memory trade-off and fractional differentiation."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 43,
+    "fields": {
+      "name": "Ensemble Methods and Cross-Validation in Finance",
+      "description": "AFML ch. 6-7. Ensembles under non-IID data, leakage, and purged k-fold with embargo."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 44,
+    "fields": {
+      "name": "Feature Importance and Hyper-Parameter Tuning",
+      "description": "AFML ch. 8-9. MDI, MDA and single-feature importance, orthogonal features, and tuning with purged CV."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 45,
+    "fields": {
+      "name": "Bet Sizing",
+      "description": "AFML ch. 10. Turning predicted probabilities into position sizes."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 46,
+    "fields": {
+      "name": "Backtesting and Its Dangers",
+      "description": "AFML ch. 11, 12 and 14. Backtesting errors, combinatorial purged CV and backtest statistics."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 47,
+    "fields": {
+      "name": "Strategy Risk and Machine Learning Asset Allocation",
+      "description": "AFML ch. 15-16. The probability a strategy fails, and hierarchical risk parity."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 48,
+    "fields": {
+      "name": "Structural Breaks and Feature Engineering",
+      "description": "AFML ch. 17-19. Break tests, entropy features and microstructural features, in overview."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 49,
+    "fields": {
+      "name": "Capstone: End-to-End Financial ML Pipeline",
+      "description": "Assemble the techniques into one reproducible pipeline and evaluate it honestly."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 50,
+    "fields": {
+      "name": "Linear Algebra for Quant Work",
+      "description": "MIT 18.06 with Strang's Introduction to Linear Algebra. The matrix tools regression, PCA and covariance questions depend on."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 51,
+    "fields": {
+      "name": "Quant Interview Problem Practice",
+      "description": "Zhou's A Practical Guide to Quantitative Finance Interviews: timed problem solving across the standard categories."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 52,
+    "fields": {
+      "name": "Coding Interviews for Quant Roles",
+      "description": "Algorithm refresher plus the NumPy and pandas fluency tested in live data tasks."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 53,
+    "fields": {
+      "name": "Machine Learning Interview Depth",
+      "description": "Be able to explain core ML ideas from scratch, out loud, to both ML and non-ML interviewers."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 54,
+    "fields": {
+      "name": "Finance Vocabulary and Market Basics",
+      "description": "Enough market knowledge to follow a trading-floor conversation and frame a model's purpose."
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 55,
+    "fields": {
+      "name": "Capstone Project You Can Defend",
+      "description": "One honest project on real market data, with reproducible code and a prepared verbal walkthrough."
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 1,
+    "fields": {
+      "topic_name": "Sample spaces and the naive definition of probability",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 1,
+      "description": "Define experiments, sample spaces and events; compute probabilities by counting equally likely outcomes.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 2,
+    "fields": {
+      "topic_name": "Counting: multiplication rule, permutations and binomial coefficients",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 1,
+      "description": "The counting tools behind most discrete probability problems, including sampling with and without replacement.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 3,
+    "fields": {
+      "topic_name": "Story proofs and the axioms of probability",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 1,
+      "description": "Prove combinatorial identities by interpretation; learn the axioms and inclusion-exclusion.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 4,
+    "fields": {
+      "topic_name": "Chapter 1 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 1,
+      "description": "Work at least 20 exercises, including the birthday problem and de Montmort's matching problem.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 5,
+    "fields": {
+      "topic_name": "Conditional probability and Bayes' rule",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 2,
+      "description": "Definition of conditioning, Bayes' rule, prior and posterior odds, the base-rate fallacy.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 6,
+    "fields": {
+      "topic_name": "Law of total probability and independence",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 2,
+      "description": "Partition the sample space to compute probabilities; independence versus conditional independence; Simpson's paradox.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 7,
+    "fields": {
+      "topic_name": "Conditioning as a tool: first-step analysis and gambler's ruin",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 2,
+      "description": "Solve recursive problems by conditioning on the first step; the gambler's ruin problem and its finance interpretation.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 8,
+    "fields": {
+      "topic_name": "Chapter 2 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 2,
+      "description": "Exercises on Bayes' rule, the Monty Hall problem and conditional independence.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 9,
+    "fields": {
+      "topic_name": "Random variables, PMFs and CDFs",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 3,
+      "description": "Random variables as maps from the sample space; probability mass functions and cumulative distribution functions.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 10,
+    "fields": {
+      "topic_name": "Bernoulli, binomial, hypergeometric and discrete uniform",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 3,
+      "description": "Stories behind the core discrete distributions and when each applies.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 11,
+    "fields": {
+      "topic_name": "Functions of random variables and independence",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 3,
+      "description": "Distributions of transformed random variables; independence and i.i.d. samples.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 12,
+    "fields": {
+      "topic_name": "Chapter 3 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 3,
+      "description": "Exercises on identifying distributions from stories and computing PMFs.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 13,
+    "fields": {
+      "topic_name": "Expectation and linearity",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 4,
+      "description": "Definition of expected value and the power of linearity for sums of dependent random variables.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 14,
+    "fields": {
+      "topic_name": "Geometric, negative binomial and indicator random variables",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 4,
+      "description": "Waiting-time distributions and the indicator trick for counting problems.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 15,
+    "fields": {
+      "topic_name": "LOTUS, variance and the Poisson distribution",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 4,
+      "description": "Law of the unconscious statistician, variance and standard deviation, Poisson as a limit of binomials.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 16,
+    "fields": {
+      "topic_name": "Chapter 4 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 4,
+      "description": "Exercises using indicators and linearity, including the coupon collector and St. Petersburg problems.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 17,
+    "fields": {
+      "topic_name": "PDFs, CDFs and the uniform distribution",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 5,
+      "description": "Probability density functions, universality of the uniform and how to generate random variables from it.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 18,
+    "fields": {
+      "topic_name": "The normal distribution",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 5,
+      "description": "Standard normal, location-scale transformations, the 68-95-99.7 rule and why normality appears everywhere.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 19,
+    "fields": {
+      "topic_name": "Exponential distribution and the Poisson process",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 5,
+      "description": "Memorylessness, rates, and inter-arrival times; first look at the Poisson process.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 20,
+    "fields": {
+      "topic_name": "Chapter 5 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 5,
+      "description": "Exercises on densities, transformations and memorylessness.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 21,
+    "fields": {
+      "topic_name": "Moments, skewness and kurtosis",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 6,
+      "description": "Higher moments, what skewness and kurtosis measure, and why financial returns are fat-tailed.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 22,
+    "fields": {
+      "topic_name": "Moment generating functions",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 6,
+      "description": "MGFs, sums of independent random variables and the MGF of the normal distribution.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 23,
+    "fields": {
+      "topic_name": "Python: sample moments of real return series",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 6,
+      "description": "Download daily prices, compute returns, and estimate skewness and kurtosis with SciPy; compare with a normal fit.",
+      "links": [
+        4,
+        5
+      ],
+      "tags": [
+        1,
+        7,
+        5,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 24,
+    "fields": {
+      "topic_name": "Chapter 6 problem set",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 6,
+      "description": "Exercises on moments and MGFs.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 25,
+    "fields": {
+      "topic_name": "Joint, marginal and conditional distributions",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 7,
+      "description": "Two-dimensional PMFs and PDFs, marginalization and conditioning in the discrete and continuous cases.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 26,
+    "fields": {
+      "topic_name": "Covariance and correlation",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 7,
+      "description": "Definitions, properties, variance of sums, and correlation as a measure of linear dependence only.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 27,
+    "fields": {
+      "topic_name": "Multinomial and multivariate normal distributions",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 7,
+      "description": "Covariance matrices, linear combinations of jointly normal variables and the multivariate normal density.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 28,
+    "fields": {
+      "topic_name": "Chapter 7 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 7,
+      "description": "Exercises on joint densities, covariance and the bivariate normal.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 29,
+    "fields": {
+      "topic_name": "Change of variables and convolutions",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 8,
+      "description": "The Jacobian method for transformations and the distribution of sums of independent random variables.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 30,
+    "fields": {
+      "topic_name": "Beta and Gamma distributions",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 8,
+      "description": "Stories and conjugacy relationships; Beta-Binomial and Gamma-Poisson.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 31,
+    "fields": {
+      "topic_name": "Order statistics",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 8,
+      "description": "Distributions of the minimum, maximum and j-th order statistic.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 32,
+    "fields": {
+      "topic_name": "Chapter 8 problem set",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 8,
+      "description": "Exercises on transformations and order statistics.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 33,
+    "fields": {
+      "topic_name": "Conditional expectation given an event and given a random variable",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 9,
+      "description": "Conditional expectation as a random variable; taking out what is known.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 34,
+    "fields": {
+      "topic_name": "Adam's law and Eve's law",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 9,
+      "description": "Law of total expectation and law of total variance, with applications to mixtures and compound sums.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 35,
+    "fields": {
+      "topic_name": "Conditional expectation as prediction",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 9,
+      "description": "Conditional expectation as the best predictor in mean squared error; the link to regression.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 36,
+    "fields": {
+      "topic_name": "Chapter 9 problem set",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 9,
+      "description": "Exercises on Adam's and Eve's laws and prediction problems.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 37,
+    "fields": {
+      "topic_name": "Markov, Chebyshev, Jensen and Cauchy-Schwarz",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 10,
+      "description": "The core inequalities and how they bound tail probabilities and expectations.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 38,
+    "fields": {
+      "topic_name": "Law of large numbers and central limit theorem",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 10,
+      "description": "Statements, intuition and sketch proofs; what the CLT does and does not say about heavy tails.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 39,
+    "fields": {
+      "topic_name": "Python: simulate the CLT and chi-square and t distributions",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 10,
+      "description": "Simulate sample means from several distributions, check convergence to normal, and see where the t distribution comes from.",
+      "links": [
+        4,
+        6
+      ],
+      "tags": [
+        1,
+        7,
+        6,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 40,
+    "fields": {
+      "topic_name": "Chapter 10 problem set",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 10,
+      "description": "Exercises on inequalities and limit theorems.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 41,
+    "fields": {
+      "topic_name": "Markov property and transition matrices",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 11,
+      "description": "Define Markov chains, n-step transition probabilities and matrix powers.",
+      "links": [
+        1,
+        2
+      ],
+      "tags": [
+        1,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 42,
+    "fields": {
+      "topic_name": "Classification of states and stationary distributions",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 11,
+      "description": "Recurrent and transient states, irreducibility, periodicity, existence and uniqueness of the stationary distribution.",
+      "links": [
+        1,
+        3
+      ],
+      "tags": [
+        1,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 43,
+    "fields": {
+      "topic_name": "Reversibility and random walks on graphs",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 11,
+      "description": "Detailed balance, reversible chains and random walks, with a preview of MCMC.",
+      "links": [
+        1
+      ],
+      "tags": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 44,
+    "fields": {
+      "topic_name": "Chapter 11 problem set",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 11,
+      "description": "Exercises on stationary distributions and absorbing chains.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 45,
+    "fields": {
+      "topic_name": "Mixed review problems",
+      "total_time": 4,
+      "order": 1,
+      "chapter": 12,
+      "description": "Solve 30 problems chosen across chapters 1-11 without looking up which chapter they came from.",
+      "links": [
+        2,
+        7
+      ],
+      "tags": [
+        1,
+        3,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 46,
+    "fields": {
+      "topic_name": "Python simulation mini-project",
+      "total_time": 4,
+      "order": 2,
+      "chapter": 12,
+      "description": "Pick three results (e.g. gambler's ruin, coupon collector, a Markov chain stationary distribution) and verify them by Monte Carlo.",
+      "links": [
+        6,
+        4
+      ],
+      "tags": [
+        1,
+        7,
+        6,
+        11
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 47,
+    "fields": {
+      "topic_name": "Self-assessment",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 12,
+      "description": "Attempt a timed set of 10 interview-style probability questions and record which topics need revisiting.",
+      "links": [
+        2
+      ],
+      "tags": [
+        1,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 48,
+    "fields": {
+      "topic_name": "Types of convergence",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 13,
+      "description": "Convergence in probability, in distribution and in quadratic mean, and the relationships between them.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 49,
+    "fields": {
+      "topic_name": "Law of large numbers and CLT revisited",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 13,
+      "description": "Proofs via Chebyshev and characteristic functions; the Berry-Esseen bound on CLT accuracy.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 50,
+    "fields": {
+      "topic_name": "The delta method",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 13,
+      "description": "Asymptotic distributions of smooth functions of estimators; application to the Sharpe ratio.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 51,
+    "fields": {
+      "topic_name": "Chapter 5 exercises",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 13,
+      "description": "Selected exercises on convergence and the delta method.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 52,
+    "fields": {
+      "topic_name": "Parametric versus nonparametric models",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 14,
+      "description": "What a statistical model is, identifiability, and the trade-off between assumptions and flexibility.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 53,
+    "fields": {
+      "topic_name": "Point estimation: bias, standard error, MSE and consistency",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 14,
+      "description": "The properties used to judge an estimator and the bias-variance decomposition of mean squared error.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 54,
+    "fields": {
+      "topic_name": "Confidence sets and hypothesis testing overview",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 14,
+      "description": "The meaning of a confidence interval and of a test, before the detailed treatment in later chapters.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 55,
+    "fields": {
+      "topic_name": "Chapter 6 exercises",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 14,
+      "description": "Exercises on bias and MSE of simple estimators.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 56,
+    "fields": {
+      "topic_name": "Empirical distribution function and the DKW inequality",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 15,
+      "description": "Properties of the empirical CDF, Glivenko-Cantelli and a confidence band from the DKW inequality.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 57,
+    "fields": {
+      "topic_name": "Plug-in estimators and statistical functionals",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 15,
+      "description": "Estimate means, quantiles, correlations and other functionals by plugging in the empirical CDF.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 58,
+    "fields": {
+      "topic_name": "Influence functions",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 15,
+      "description": "Standard errors for plug-in estimators via the influence function; robustness intuition.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 59,
+    "fields": {
+      "topic_name": "Chapter 7 exercises",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 15,
+      "description": "Exercises on the empirical CDF and plug-in estimation.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 60,
+    "fields": {
+      "topic_name": "Bootstrap variance estimation",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 16,
+      "description": "The resampling idea, simulation versus bootstrap, and when the bootstrap fails.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 61,
+    "fields": {
+      "topic_name": "Bootstrap confidence intervals",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 16,
+      "description": "Normal, pivotal and percentile intervals and how they compare.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 62,
+    "fields": {
+      "topic_name": "Python: bootstrap the Sharpe ratio of a return series",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 16,
+      "description": "Compute a Sharpe ratio, bootstrap its distribution, and compare the interval with the delta-method answer; try a block bootstrap.",
+      "links": [
+        6,
+        4,
+        5
+      ],
+      "tags": [
+        12,
+        7,
+        5,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 63,
+    "fields": {
+      "topic_name": "Chapter 8 exercises",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 16,
+      "description": "Exercises on bootstrap intervals.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 64,
+    "fields": {
+      "topic_name": "Method of moments",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 17,
+      "description": "Match sample and population moments; consistency and asymptotic normality.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 65,
+    "fields": {
+      "topic_name": "Maximum likelihood: consistency, equivariance and asymptotic normality",
+      "total_time": 4,
+      "order": 2,
+      "chapter": 17,
+      "description": "Derive MLEs, understand why they are consistent and asymptotically normal, and compute their standard errors.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 66,
+    "fields": {
+      "topic_name": "Fisher information and the Cramér-Rao bound",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 17,
+      "description": "Information as curvature of the log-likelihood; the lower bound on estimator variance and efficiency.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 67,
+    "fields": {
+      "topic_name": "Multiparameter models and the parametric bootstrap",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 17,
+      "description": "Fisher information matrices, the multiparameter delta method and bootstrapping under a parametric model.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 68,
+    "fields": {
+      "topic_name": "Chapter 9 exercises",
+      "total_time": 3,
+      "order": 5,
+      "chapter": 17,
+      "description": "Derive MLEs and their asymptotic variances for several distributions.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 69,
+    "fields": {
+      "topic_name": "Neyman-Pearson framework, power and error types",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 18,
+      "description": "Null and alternative, Type I and II errors, size and power, and how to design a test.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 70,
+    "fields": {
+      "topic_name": "Wald, likelihood ratio and chi-square tests",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 18,
+      "description": "Construct and interpret the standard large-sample tests; goodness of fit.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 71,
+    "fields": {
+      "topic_name": "p-values: what they mean and do not mean",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 18,
+      "description": "Definition, distribution under the null, and common misinterpretations.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 72,
+    "fields": {
+      "topic_name": "Multiple testing: Bonferroni and Benjamini-Hochberg",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 18,
+      "description": "Family-wise error rate versus false discovery rate, and why this is the central statistical problem in strategy research.",
+      "links": [
+        8,
+        10
+      ],
+      "tags": [
+        12,
+        2,
+        5,
+        13
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 73,
+    "fields": {
+      "topic_name": "Chapter 10 exercises",
+      "total_time": 3,
+      "order": 5,
+      "chapter": 18,
+      "description": "Exercises on test construction, power and multiple testing.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 74,
+    "fields": {
+      "topic_name": "Priors, posteriors and conjugacy",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 19,
+      "description": "Bayes' theorem for parameters; Beta-Binomial and Normal-Normal conjugate updates.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 75,
+    "fields": {
+      "topic_name": "Bayesian point and interval estimation; large-sample behavior",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 19,
+      "description": "Posterior mean and MAP estimates, credible intervals and the Bernstein-von Mises connection to MLE.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 76,
+    "fields": {
+      "topic_name": "Shrinkage and the Bayesian view of regularization",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 19,
+      "description": "How Gaussian and Laplace priors give ridge and lasso; shrinkage estimators for noisy means and covariances.",
+      "links": [
+        8,
+        11
+      ],
+      "tags": [
+        12,
+        2,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 77,
+    "fields": {
+      "topic_name": "Chapter 11 exercises",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 19,
+      "description": "Exercises on conjugate updating and posterior intervals.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 78,
+    "fields": {
+      "topic_name": "Loss, risk, Bayes and minimax estimators",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 20,
+      "description": "Compare estimators by their risk functions; Bayes risk and minimax criteria.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 79,
+    "fields": {
+      "topic_name": "Admissibility and James-Stein shrinkage",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 20,
+      "description": "Why the sample mean is inadmissible in three or more dimensions, and what that implies for estimating many expected returns.",
+      "links": [
+        8,
+        11
+      ],
+      "tags": [
+        12,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 80,
+    "fields": {
+      "topic_name": "Chapter 12 exercises",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 20,
+      "description": "Exercises on risk functions and shrinkage.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 81,
+    "fields": {
+      "topic_name": "Simple and multiple regression in matrix form",
+      "total_time": 4,
+      "order": 1,
+      "chapter": 21,
+      "description": "Least squares as projection, the hat matrix, Gauss-Markov and the sampling distribution of coefficients.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        2,
+        9,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 82,
+    "fields": {
+      "topic_name": "Inference for coefficients and model selection",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 21,
+      "description": "Standard errors, t-tests, confidence intervals, Mallows' Cp, AIC, BIC and cross-validation.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        9,
+        14
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 83,
+    "fields": {
+      "topic_name": "Logistic regression",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 21,
+      "description": "The logistic model, maximum likelihood fitting and interpretation of coefficients.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 84,
+    "fields": {
+      "topic_name": "Python: regression diagnostics with statsmodels",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 21,
+      "description": "Fit a factor regression on stock returns, check residuals, heteroscedasticity and collinearity, and use robust standard errors.",
+      "links": [
+        12,
+        5
+      ],
+      "tags": [
+        12,
+        7,
+        9,
+        5,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 85,
+    "fields": {
+      "topic_name": "Chapter 13 exercises",
+      "total_time": 3,
+      "order": 5,
+      "chapter": 21,
+      "description": "Exercises on least squares derivations and regression inference.",
+      "links": [
+        8
+      ],
+      "tags": [
+        12,
+        3,
+        9
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 86,
+    "fields": {
+      "topic_name": "Mixed review problems",
+      "total_time": 4,
+      "order": 1,
+      "chapter": 22,
+      "description": "Solve 25 problems across chapters 5-13, emphasizing MLE derivations and test construction.",
+      "links": [
+        8,
+        9
+      ],
+      "tags": [
+        12,
+        3,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 87,
+    "fields": {
+      "topic_name": "Mini-project: test a calendar or momentum effect with multiple-testing correction",
+      "total_time": 6,
+      "order": 2,
+      "chapter": 22,
+      "description": "Test several candidate effects on historical returns, report raw and FDR-adjusted p-values, and bootstrap the effect sizes.",
+      "links": [
+        5,
+        12,
+        4
+      ],
+      "tags": [
+        12,
+        7,
+        5,
+        11,
+        13
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 88,
+    "fields": {
+      "topic_name": "Self-assessment",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 22,
+      "description": "Timed set of 10 interview-style statistics questions; list the weak areas to revisit.",
+      "links": [
+        9
+      ],
+      "tags": [
+        12,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 89,
+    "fields": {
+      "topic_name": "Prediction versus inference; parametric and nonparametric methods",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 23,
+      "description": "Why we estimate f, the accuracy-interpretability trade-off and supervised versus unsupervised learning.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 90,
+    "fields": {
+      "topic_name": "Bias-variance trade-off and assessing model accuracy",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 23,
+      "description": "Training versus test error, the bias-variance decomposition, and the Bayes classifier.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 91,
+    "fields": {
+      "topic_name": "Lab: Python, NumPy, pandas and the ISLP package",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 23,
+      "description": "Work through the chapter 2 lab to set up the environment used by every later lab.",
+      "links": [
+        14,
+        6,
+        15
+      ],
+      "tags": [
+        15,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 92,
+    "fields": {
+      "topic_name": "Simple and multiple linear regression",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 24,
+      "description": "Estimating coefficients, assessing accuracy and the F-test for overall fit.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 93,
+    "fields": {
+      "topic_name": "Interactions, qualitative predictors and potential problems",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 24,
+      "description": "Dummy variables, interaction terms, non-linearity, correlated errors, heteroscedasticity, outliers and collinearity.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 94,
+    "fields": {
+      "topic_name": "Lab: linear regression in Python",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 24,
+      "description": "Fit, diagnose and extend regression models using statsmodels and the ISLP helpers.",
+      "links": [
+        14,
+        12
+      ],
+      "tags": [
+        15,
+        9,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 95,
+    "fields": {
+      "topic_name": "Chapter 3 exercises",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 24,
+      "description": "Conceptual and applied exercises on regression.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 96,
+    "fields": {
+      "topic_name": "Logistic regression",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 25,
+      "description": "Odds, the logistic model, multinomial extension and interpretation.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 97,
+    "fields": {
+      "topic_name": "LDA, QDA, naive Bayes and KNN",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 25,
+      "description": "Generative classifiers versus discriminative ones and when each wins; ROC curves and confusion matrices.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 98,
+    "fields": {
+      "topic_name": "Generalized linear models",
+      "total_time": 1,
+      "order": 3,
+      "chapter": 25,
+      "description": "Poisson regression and the GLM family.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 99,
+    "fields": {
+      "topic_name": "Lab: classification in Python",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 25,
+      "description": "Fit classifiers on the Smarket data and compare them with proper held-out evaluation.",
+      "links": [
+        14,
+        16
+      ],
+      "tags": [
+        15,
+        7,
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 100,
+    "fields": {
+      "topic_name": "Cross-validation: validation set, LOOCV and k-fold",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 26,
+      "description": "Estimating test error, the bias-variance trade-off of k, and cross-validation for classification.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        14,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 101,
+    "fields": {
+      "topic_name": "The bootstrap",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 26,
+      "description": "Resampling to estimate the variability of any estimator.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 102,
+    "fields": {
+      "topic_name": "Why random k-fold fails on financial time series",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 26,
+      "description": "Leakage through autocorrelation and overlapping labels; preview of walk-forward and purged cross-validation.",
+      "links": [
+        17
+      ],
+      "tags": [
+        15,
+        14,
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 103,
+    "fields": {
+      "topic_name": "Lab: cross-validation and the bootstrap",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 26,
+      "description": "Implement CV and bootstrap with scikit-learn, then write a simple walk-forward splitter.",
+      "links": [
+        14,
+        16
+      ],
+      "tags": [
+        15,
+        7,
+        14,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 104,
+    "fields": {
+      "topic_name": "Subset selection and model-selection criteria",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 27,
+      "description": "Best subset, forward and backward stepwise selection; Cp, AIC, BIC, adjusted R-squared.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 105,
+    "fields": {
+      "topic_name": "Ridge and lasso",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 27,
+      "description": "Shrinkage penalties, the geometry of L1 versus L2, selecting the tuning parameter by CV, and the Bayesian interpretation.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        9,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 106,
+    "fields": {
+      "topic_name": "PCR, PLS and high-dimensional considerations",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 27,
+      "description": "Dimension reduction methods and what goes wrong when p is comparable to n.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        9,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 107,
+    "fields": {
+      "topic_name": "Lab: regularization in Python",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 27,
+      "description": "Fit ridge and lasso paths with scikit-learn and choose penalties with cross-validation.",
+      "links": [
+        14,
+        16
+      ],
+      "tags": [
+        15,
+        9,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 108,
+    "fields": {
+      "topic_name": "Decision trees",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 28,
+      "description": "Recursive binary splitting, pruning, and trees versus linear models.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 109,
+    "fields": {
+      "topic_name": "Bagging and random forests",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 28,
+      "description": "Variance reduction by averaging, out-of-bag error and variable importance.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 110,
+    "fields": {
+      "topic_name": "Boosting and gradient boosting",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 28,
+      "description": "Sequential fitting to residuals, learning rate and depth, and the gradient boosting view used by XGBoost and LightGBM.",
+      "links": [
+        13,
+        18
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 111,
+    "fields": {
+      "topic_name": "Lab: random forests and boosting in Python",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 28,
+      "description": "Fit forests and boosted models, tune them with CV and compare feature importances.",
+      "links": [
+        14,
+        16,
+        18
+      ],
+      "tags": [
+        15,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 112,
+    "fields": {
+      "topic_name": "Single-layer and multilayer neural networks",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 29,
+      "description": "Hidden units, activations and why depth helps.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        18,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 113,
+    "fields": {
+      "topic_name": "CNNs and RNNs; sequence models for time series",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 29,
+      "description": "Convolutional layers, recurrent networks and their use on sequential financial data.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        18,
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 114,
+    "fields": {
+      "topic_name": "Fitting neural networks: SGD, backpropagation, regularization and dropout",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 29,
+      "description": "How training works, the double-descent phenomenon and interpolation.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        18,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 115,
+    "fields": {
+      "topic_name": "Lab: deep learning with PyTorch",
+      "total_time": 4,
+      "order": 4,
+      "chapter": 29,
+      "description": "Work through the chapter 10 lab, then fit a small network on a return-prediction task.",
+      "links": [
+        14,
+        19
+      ],
+      "tags": [
+        15,
+        18,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 116,
+    "fields": {
+      "topic_name": "Principal components analysis",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 30,
+      "description": "PCA as variance maximization and as low-rank approximation; proportion of variance explained.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 117,
+    "fields": {
+      "topic_name": "K-means and hierarchical clustering",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 30,
+      "description": "Clustering algorithms, choosing the number of clusters and the pitfalls of clustering.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 118,
+    "fields": {
+      "topic_name": "Matrix completion and missing values",
+      "total_time": 1,
+      "order": 3,
+      "chapter": 30,
+      "description": "Low-rank imputation and its use on incomplete data.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 119,
+    "fields": {
+      "topic_name": "Lab: PCA and clustering in Python",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 30,
+      "description": "Run PCA on a panel of stock returns and cluster assets by return correlation.",
+      "links": [
+        14,
+        16,
+        5
+      ],
+      "tags": [
+        15,
+        7,
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 120,
+    "fields": {
+      "topic_name": "Family-wise error rate",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 31,
+      "description": "Why many tests inflate false positives; Bonferroni and Holm corrections.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 121,
+    "fields": {
+      "topic_name": "False discovery rate and Benjamini-Hochberg",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 31,
+      "description": "Controlling FDR instead of FWER and when that is the right choice.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 122,
+    "fields": {
+      "topic_name": "Resampling approaches and application to strategy selection",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 31,
+      "description": "Permutation-based p-values and the deflated Sharpe ratio as multiple-testing correction for backtests.",
+      "links": [
+        13,
+        10
+      ],
+      "tags": [
+        15,
+        12,
+        5,
+        13
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 123,
+    "fields": {
+      "topic_name": "Lab: multiple testing in Python",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 31,
+      "description": "Run many tests on random signals, apply Bonferroni and BH, and see how many survive.",
+      "links": [
+        14,
+        4
+      ],
+      "tags": [
+        15,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 124,
+    "fields": {
+      "topic_name": "Build a feature set from price data",
+      "total_time": 4,
+      "order": 1,
+      "chapter": 32,
+      "description": "Compute lagged returns, rolling volatility and momentum features with pandas, aligned to avoid look-ahead.",
+      "links": [
+        15,
+        5
+      ],
+      "tags": [
+        15,
+        7,
+        5,
+        11
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 125,
+    "fields": {
+      "topic_name": "Compare ridge, lasso, random forest and boosting with walk-forward validation",
+      "total_time": 6,
+      "order": 2,
+      "chapter": 32,
+      "description": "Evaluate each model out of sample with an expanding-window scheme and report metrics with uncertainty.",
+      "links": [
+        16,
+        18
+      ],
+      "tags": [
+        15,
+        7,
+        14,
+        5,
+        11
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 126,
+    "fields": {
+      "topic_name": "Write-up with honest out-of-sample results",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 32,
+      "description": "Document what worked, what did not, and what the results would mean after transaction costs.",
+      "links": [
+        20
+      ],
+      "tags": [
+        15,
+        11,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 127,
+    "fields": {
+      "topic_name": "Asset returns: simple, log, multi-period and excess returns",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 33,
+      "description": "Definitions and why log returns are convenient for modeling.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 128,
+    "fields": {
+      "topic_name": "Distributional properties: fat tails, skewness and normality tests",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 33,
+      "description": "Empirical moments, Jarque-Bera, QQ plots and the stylized facts: fat tails, volatility clustering, weak autocorrelation.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        5,
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 129,
+    "fields": {
+      "topic_name": "Python: load prices and explore return distributions",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 33,
+      "description": "Download several assets, compute returns at different horizons and compare their distributions and autocorrelations.",
+      "links": [
+        5,
+        15,
+        4
+      ],
+      "tags": [
+        16,
+        7,
+        5,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 130,
+    "fields": {
+      "topic_name": "Stationarity, autocorrelation, ACF and PACF, Ljung-Box test",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 34,
+      "description": "Weak stationarity, sample autocorrelations and testing for serial dependence.",
+      "links": [
+        22,
+        21
+      ],
+      "tags": [
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 131,
+    "fields": {
+      "topic_name": "AR, MA and ARMA models: identification, estimation and forecasting",
+      "total_time": 4,
+      "order": 2,
+      "chapter": 34,
+      "description": "Model structure, order selection with ACF/PACF and information criteria, and multi-step forecasts.",
+      "links": [
+        22
+      ],
+      "tags": [
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 132,
+    "fields": {
+      "topic_name": "Unit roots: random walks, differencing and the ADF test",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 34,
+      "description": "Random walk with drift, trend versus difference stationarity and the augmented Dickey-Fuller test.",
+      "links": [
+        22
+      ],
+      "tags": [
+        16,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 133,
+    "fields": {
+      "topic_name": "Regression with time series errors and seasonality",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 34,
+      "description": "Spurious regression, autocorrelated residuals and seasonal models.",
+      "links": [
+        22
+      ],
+      "tags": [
+        16,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 134,
+    "fields": {
+      "topic_name": "Python: fit ARMA models with statsmodels",
+      "total_time": 3,
+      "order": 5,
+      "chapter": 34,
+      "description": "Fit, diagnose and forecast ARMA models on returns; verify that the residuals pass Ljung-Box.",
+      "links": [
+        12
+      ],
+      "tags": [
+        16,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 135,
+    "fields": {
+      "topic_name": "Volatility clustering and the ARCH effect",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 35,
+      "description": "Why squared returns are autocorrelated; testing for ARCH effects.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        19,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 136,
+    "fields": {
+      "topic_name": "GARCH, IGARCH, GARCH-M, EGARCH and asymmetric models",
+      "total_time": 4,
+      "order": 2,
+      "chapter": 35,
+      "description": "Model structure, estimation by quasi-maximum likelihood and the leverage effect.",
+      "links": [
+        23
+      ],
+      "tags": [
+        16,
+        19,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 137,
+    "fields": {
+      "topic_name": "Volatility forecasting and evaluation",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 35,
+      "description": "Multi-step variance forecasts, realized volatility as a benchmark and forecast evaluation.",
+      "links": [
+        23
+      ],
+      "tags": [
+        16,
+        19,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 138,
+    "fields": {
+      "topic_name": "Python: GARCH with the arch package",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 35,
+      "description": "Fit GARCH(1,1) and an asymmetric variant on index returns and compare their volatility forecasts.",
+      "links": [
+        23
+      ],
+      "tags": [
+        16,
+        19,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 139,
+    "fields": {
+      "topic_name": "Cross-correlation and vector autoregression",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 36,
+      "description": "VAR models, order selection, impulse responses and Granger causality.",
+      "links": [
+        12
+      ],
+      "tags": [
+        16,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 140,
+    "fields": {
+      "topic_name": "Cointegration: Engle-Granger and Johansen tests",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 36,
+      "description": "Why two non-stationary series can have a stationary combination, and how to test for it.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 141,
+    "fields": {
+      "topic_name": "Error-correction models and pairs trading",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 36,
+      "description": "Vector error-correction models and the logic of mean-reversion trades on the cointegrating spread.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 142,
+    "fields": {
+      "topic_name": "Python: pairs-trading backtest sketch",
+      "total_time": 4,
+      "order": 4,
+      "chapter": 36,
+      "description": "Find a cointegrated pair, estimate the hedge ratio, trade the z-score of the spread and evaluate with costs.",
+      "links": [
+        12,
+        5
+      ],
+      "tags": [
+        16,
+        7,
+        5,
+        13,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 143,
+    "fields": {
+      "topic_name": "Principal components of return panels",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 37,
+      "description": "Eigen-decomposition of the covariance matrix, the market factor as the first component and random-matrix noise.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 144,
+    "fields": {
+      "topic_name": "Statistical and fundamental factor models",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 37,
+      "description": "Factor models for returns, Fama-French style regressions and factor exposures.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        5,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 145,
+    "fields": {
+      "topic_name": "Python: PCA on a stock universe",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 37,
+      "description": "Run PCA on a panel of daily returns, examine loadings and the scree plot, and compare with a market-beta regression.",
+      "links": [
+        6,
+        16,
+        5
+      ],
+      "tags": [
+        16,
+        7,
+        8,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 146,
+    "fields": {
+      "topic_name": "State-space representation: local level and local trend models",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 38,
+      "description": "Observation and state equations; expressing ARMA and structural models in state-space form.",
+      "links": [
+        22
+      ],
+      "tags": [
+        16,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 147,
+    "fields": {
+      "topic_name": "Kalman filter: prediction, filtering and smoothing",
+      "total_time": 4,
+      "order": 2,
+      "chapter": 38,
+      "description": "Derive the recursions and understand the Kalman gain as a Bayesian update.",
+      "links": [
+        21
+      ],
+      "tags": [
+        16,
+        2,
+        4,
+        8
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 148,
+    "fields": {
+      "topic_name": "Applications: time-varying betas and dynamic hedge ratios",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 38,
+      "description": "Treat regression coefficients as states to track changing exposures.",
+      "links": [
+        12
+      ],
+      "tags": [
+        16,
+        5,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 149,
+    "fields": {
+      "topic_name": "Python: Kalman filter with statsmodels",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 38,
+      "description": "Fit a local-level model and a time-varying beta regression using statsmodels state-space tools.",
+      "links": [
+        12
+      ],
+      "tags": [
+        16,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 150,
+    "fields": {
+      "topic_name": "Why most machine learning funds fail",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 39,
+      "description": "The ten pitfalls: integer differentiation, inefficient sampling, wrong labeling, non-IID weighting, leakage, overfitting.",
+      "links": [
+        17,
+        24
+      ],
+      "tags": [
+        17,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 151,
+    "fields": {
+      "topic_name": "Bars: time, tick, volume, dollar and information-driven bars",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 39,
+      "description": "Sampling by activity instead of clock time and why it improves statistical properties.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 152,
+    "fields": {
+      "topic_name": "Python: build dollar bars from intraday data",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 39,
+      "description": "Construct dollar bars from trade or minute data and compare their return distributions with time bars.",
+      "links": [
+        15,
+        25
+      ],
+      "tags": [
+        17,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 153,
+    "fields": {
+      "topic_name": "Fixed-time horizon labeling and its problems",
+      "total_time": 1,
+      "order": 1,
+      "chapter": 40,
+      "description": "Why the usual labeling ignores volatility and the path of prices.",
+      "links": [
+        17
+      ],
+      "tags": [
+        17,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 154,
+    "fields": {
+      "topic_name": "The triple-barrier method",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 40,
+      "description": "Profit-taking, stop-loss and vertical barriers; volatility-scaled thresholds.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 155,
+    "fields": {
+      "topic_name": "Meta-labeling",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 40,
+      "description": "Separate the side of a bet from its size; a secondary model that predicts whether the primary signal is right.",
+      "links": [
+        24
+      ],
+      "tags": [
+        17,
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 156,
+    "fields": {
+      "topic_name": "Python: implement triple-barrier labels",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 40,
+      "description": "Code the triple-barrier method on dollar bars and inspect label balance and duration.",
+      "links": [
+        15,
+        25
+      ],
+      "tags": [
+        17,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 157,
+    "fields": {
+      "topic_name": "Overlapping outcomes and label uniqueness",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 41,
+      "description": "Why labels that span overlapping periods are not independent, and how to measure uniqueness.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 158,
+    "fields": {
+      "topic_name": "Sequential bootstrap",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 41,
+      "description": "Resample so that overlapping observations are drawn less often.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        12,
+        6,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 159,
+    "fields": {
+      "topic_name": "Return attribution and time-decay weights",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 41,
+      "description": "Weight samples by absolute return and recency when training.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 160,
+    "fields": {
+      "topic_name": "Stationarity versus memory",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 42,
+      "description": "Why returns are stationary but memoryless, and prices have memory but are non-stationary.",
+      "links": [
+        17
+      ],
+      "tags": [
+        17,
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 161,
+    "fields": {
+      "topic_name": "Fractional differentiation and the fixed-width window method",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 42,
+      "description": "The fractional difference operator, binomial weights and the practical implementation.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 162,
+    "fields": {
+      "topic_name": "Python: find the minimum d that passes the ADF test",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 42,
+      "description": "Sweep d, test stationarity, and plot correlation with the original series to choose the smallest workable d.",
+      "links": [
+        12,
+        25
+      ],
+      "tags": [
+        17,
+        16,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 163,
+    "fields": {
+      "topic_name": "Bagging versus boosting with overlapping labels",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 43,
+      "description": "Why bagging is safer than boosting on redundant financial samples; average uniqueness in random forests.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 164,
+    "fields": {
+      "topic_name": "Why k-fold fails in finance: leakage",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 43,
+      "description": "Training and test sets that share overlapping label periods inflate performance.",
+      "links": [
+        17
+      ],
+      "tags": [
+        17,
+        14,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 165,
+    "fields": {
+      "topic_name": "Purged k-fold cross-validation and embargo",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 43,
+      "description": "Remove training observations whose labels overlap the test period and add an embargo after it.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        14,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 166,
+    "fields": {
+      "topic_name": "Python: implement PurgedKFold",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 43,
+      "description": "Write a scikit-learn compatible purged splitter and compare its scores with plain k-fold.",
+      "links": [
+        16,
+        25
+      ],
+      "tags": [
+        17,
+        14,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 167,
+    "fields": {
+      "topic_name": "MDI, MDA and single feature importance",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 44,
+      "description": "Three importance methods, their biases and how substitution effects mislead them.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 168,
+    "fields": {
+      "topic_name": "Orthogonal features and PCA",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 44,
+      "description": "Reduce substitution effects by rotating features; using PCA as a sanity check on importance.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 169,
+    "fields": {
+      "topic_name": "Tuning with purged CV and log-uniform search distributions",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 44,
+      "description": "Randomized search over sensible scales without leaking the test set.",
+      "links": [
+        16
+      ],
+      "tags": [
+        17,
+        14,
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 170,
+    "fields": {
+      "topic_name": "From predicted probability to position size",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 45,
+      "description": "Size bets by the confidence of the classifier; the sigmoid and z-statistic approaches.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 171,
+    "fields": {
+      "topic_name": "Averaging active bets and size discretization",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 45,
+      "description": "Combine overlapping signals and reduce turnover with discretized sizes.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 172,
+    "fields": {
+      "topic_name": "Dynamic bet sizes and limit prices",
+      "total_time": 1,
+      "order": 3,
+      "chapter": 45,
+      "description": "Adjust sizes as forecasts and prices change.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 173,
+    "fields": {
+      "topic_name": "Common backtesting errors",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 46,
+      "description": "Survivorship bias, look-ahead, storytelling, data mining, transaction costs and shorting constraints.",
+      "links": [
+        26
+      ],
+      "tags": [
+        17,
+        13,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 174,
+    "fields": {
+      "topic_name": "Combinatorial purged cross-validation",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 46,
+      "description": "Generate many backtest paths from one history to estimate the distribution of performance.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        13,
+        14,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 175,
+    "fields": {
+      "topic_name": "Backtest statistics: Sharpe, deflated Sharpe ratio and probability of backtest overfitting",
+      "total_time": 4,
+      "order": 3,
+      "chapter": 46,
+      "description": "Why the Sharpe ratio inflates with the number of trials and how to correct it.",
+      "links": [
+        10,
+        26
+      ],
+      "tags": [
+        17,
+        13,
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 176,
+    "fields": {
+      "topic_name": "Python: deflated Sharpe ratio for a family of strategies",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 46,
+      "description": "Backtest many parameter variants, compute the DSR of the best one and see how much of the edge survives.",
+      "links": [
+        6,
+        4
+      ],
+      "tags": [
+        17,
+        13,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 177,
+    "fields": {
+      "topic_name": "Strategy risk: precision, frequency and probability of failure",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 47,
+      "description": "Relate betting precision and frequency to the Sharpe ratio and compute the probability of failure.",
+      "links": [
+        24
+      ],
+      "tags": [
+        17,
+        5,
+        12,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 178,
+    "fields": {
+      "topic_name": "Hierarchical risk parity",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 47,
+      "description": "Why mean-variance weights are unstable and how clustering the correlation matrix produces robust portfolios.",
+      "links": [
+        24
+      ],
+      "tags": [
+        17,
+        5,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 179,
+    "fields": {
+      "topic_name": "Python: HRP portfolio on a stock universe",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 47,
+      "description": "Implement HRP and compare its out-of-sample variance with minimum-variance and equal weights.",
+      "links": [
+        6,
+        5
+      ],
+      "tags": [
+        17,
+        5,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 180,
+    "fields": {
+      "topic_name": "CUSUM and explosiveness tests",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 48,
+      "description": "Detect regime changes and bubbles with CUSUM and supremum ADF tests.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 181,
+    "fields": {
+      "topic_name": "Entropy and microstructural features",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 48,
+      "description": "Information-content features and order-flow features from tick data, and what they are used for.",
+      "links": [
+        25
+      ],
+      "tags": [
+        17,
+        16,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 182,
+    "fields": {
+      "topic_name": "Assemble the pipeline",
+      "total_time": 8,
+      "order": 1,
+      "chapter": 49,
+      "description": "Dollar bars, fractional differentiation, triple-barrier labels, sample weights, purged CV and bet sizing in one codebase.",
+      "links": [
+        25,
+        16
+      ],
+      "tags": [
+        17,
+        7,
+        11
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 183,
+    "fields": {
+      "topic_name": "Evaluate and write up",
+      "total_time": 4,
+      "order": 2,
+      "chapter": 49,
+      "description": "Report combinatorial-CV results, the deflated Sharpe ratio and transaction-cost sensitivity; document every decision.",
+      "links": [
+        10
+      ],
+      "tags": [
+        17,
+        13,
+        11,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 184,
+    "fields": {
+      "topic_name": "Vectors, matrices, systems of equations and LU factorization",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 50,
+      "description": "Elimination, matrix multiplication and inverses.",
+      "links": [
+        27,
+        28
+      ],
+      "tags": [
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 185,
+    "fields": {
+      "topic_name": "Vector spaces, rank and the four fundamental subspaces",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 50,
+      "description": "Column space, null space, independence and dimension.",
+      "links": [
+        27,
+        29
+      ],
+      "tags": [
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 186,
+    "fields": {
+      "topic_name": "Orthogonality, projections and least squares",
+      "total_time": 3,
+      "order": 3,
+      "chapter": 50,
+      "description": "Projection matrices and the normal equations behind linear regression.",
+      "links": [
+        27,
+        28
+      ],
+      "tags": [
+        8,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 187,
+    "fields": {
+      "topic_name": "Determinants, eigenvalues, eigenvectors and diagonalization",
+      "total_time": 4,
+      "order": 4,
+      "chapter": 50,
+      "description": "Characteristic polynomials, eigen-decomposition and matrix powers, with Markov chains as the example.",
+      "links": [
+        27,
+        29
+      ],
+      "tags": [
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 188,
+    "fields": {
+      "topic_name": "Symmetric and positive-definite matrices; covariance matrices",
+      "total_time": 3,
+      "order": 5,
+      "chapter": 50,
+      "description": "The spectral theorem, positive definiteness tests and why covariance matrices are PSD.",
+      "links": [
+        27,
+        28
+      ],
+      "tags": [
+        8,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 189,
+    "fields": {
+      "topic_name": "Singular value decomposition and PCA",
+      "total_time": 3,
+      "order": 6,
+      "chapter": 50,
+      "description": "SVD, low-rank approximation and PCA as SVD of the centered data matrix.",
+      "links": [
+        27,
+        29
+      ],
+      "tags": [
+        8,
+        15,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 190,
+    "fields": {
+      "topic_name": "Python: implement PCA and least squares from scratch with NumPy",
+      "total_time": 3,
+      "order": 7,
+      "chapter": 50,
+      "description": "Code both with explicit matrix operations and verify against scikit-learn and statsmodels.",
+      "links": [
+        6,
+        16
+      ],
+      "tags": [
+        8,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 191,
+    "fields": {
+      "topic_name": "Brainteasers",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 51,
+      "description": "Classic puzzles and the reasoning patterns interviewers look for.",
+      "links": [
+        2
+      ],
+      "tags": [
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 192,
+    "fields": {
+      "topic_name": "Probability theory problems",
+      "total_time": 5,
+      "order": 2,
+      "chapter": 51,
+      "description": "Conditional probability, expectation tricks, distributions and limit theorems under time pressure.",
+      "links": [
+        2,
+        7
+      ],
+      "tags": [
+        10,
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 193,
+    "fields": {
+      "topic_name": "Statistics and regression problems",
+      "total_time": 4,
+      "order": 3,
+      "chapter": 51,
+      "description": "Estimators, hypothesis tests, regression interpretation and bias-variance questions.",
+      "links": [
+        9
+      ],
+      "tags": [
+        10,
+        12,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 194,
+    "fields": {
+      "topic_name": "Stochastic processes and Markov chain problems",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 51,
+      "description": "Random walks, hitting times, martingale arguments and stationary distributions.",
+      "links": [
+        3
+      ],
+      "tags": [
+        10,
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 195,
+    "fields": {
+      "topic_name": "Mock interviews: timed sets explained aloud",
+      "total_time": 4,
+      "order": 5,
+      "chapter": 51,
+      "description": "Solve problems while narrating your reasoning; record and review where explanations break down.",
+      "links": [
+        2
+      ],
+      "tags": [
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 196,
+    "fields": {
+      "topic_name": "Arrays, hashing, two pointers and sliding window",
+      "total_time": 4,
+      "order": 1,
+      "chapter": 52,
+      "description": "Medium-difficulty problems on the most common patterns.",
+      "links": [
+        30
+      ],
+      "tags": [
+        20,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 197,
+    "fields": {
+      "topic_name": "Trees, graphs, BFS/DFS and dynamic programming",
+      "total_time": 5,
+      "order": 2,
+      "chapter": 52,
+      "description": "Medium-difficulty problems with attention to complexity analysis.",
+      "links": [
+        30
+      ],
+      "tags": [
+        20,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 198,
+    "fields": {
+      "topic_name": "NumPy vectorization and pandas group-by, rolling and merge",
+      "total_time": 4,
+      "order": 3,
+      "chapter": 52,
+      "description": "Replace loops with vectorized operations; rolling windows, resampling and joins on time-indexed data.",
+      "links": [
+        6,
+        15
+      ],
+      "tags": [
+        20,
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 199,
+    "fields": {
+      "topic_name": "Live data task practice",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 52,
+      "description": "Clean a messy price file, align calendars, compute rolling statistics and plot, all within 45 minutes.",
+      "links": [
+        15,
+        20
+      ],
+      "tags": [
+        20,
+        7,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 200,
+    "fields": {
+      "topic_name": "Bias-variance, overfitting and regularization from first principles",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 53,
+      "description": "Derive the decomposition, explain how ridge and lasso trade bias for variance, and diagnose overfitting.",
+      "links": [
+        13,
+        11
+      ],
+      "tags": [
+        15,
+        10,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 201,
+    "fields": {
+      "topic_name": "Trees, random forests and gradient boosting internals",
+      "total_time": 3,
+      "order": 2,
+      "chapter": 53,
+      "description": "Split criteria, why forests reduce variance, how boosting fits residuals, and the key hyper-parameters.",
+      "links": [
+        13,
+        18
+      ],
+      "tags": [
+        15,
+        10,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 202,
+    "fields": {
+      "topic_name": "Validation schemes and why you chose one",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 53,
+      "description": "Random k-fold versus walk-forward versus purged CV; defend the choice for a given dataset.",
+      "links": [
+        17
+      ],
+      "tags": [
+        15,
+        14,
+        10,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 203,
+    "fields": {
+      "topic_name": "Explaining a model to a non-ML interviewer",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 53,
+      "description": "Practice a two-minute plain-language explanation of a model, its inputs, and its failure modes.",
+      "links": [
+        13
+      ],
+      "tags": [
+        15,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 204,
+    "fields": {
+      "topic_name": "Returns, volatility, Sharpe ratio and drawdown",
+      "total_time": 2,
+      "order": 1,
+      "chapter": 54,
+      "description": "Definitions, annualization conventions and what good values look like.",
+      "links": [
+        31
+      ],
+      "tags": [
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 205,
+    "fields": {
+      "topic_name": "Long/short, market neutrality, beta and factors",
+      "total_time": 2,
+      "order": 2,
+      "chapter": 54,
+      "description": "Hedging market exposure, dollar versus beta neutrality and the common risk factors.",
+      "links": [
+        31,
+        21
+      ],
+      "tags": [
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 206,
+    "fields": {
+      "topic_name": "Order books, order types, slippage and transaction costs",
+      "total_time": 2,
+      "order": 3,
+      "chapter": 54,
+      "description": "Market versus limit orders, the bid-ask spread, market impact and why costs decide strategy viability.",
+      "links": [
+        31
+      ],
+      "tags": [
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 207,
+    "fields": {
+      "topic_name": "From signal to trade: how a systematic strategy runs",
+      "total_time": 2,
+      "order": 4,
+      "chapter": 54,
+      "description": "Research, signal generation, portfolio construction, execution and monitoring, and where an ML engineer sits.",
+      "links": [
+        24
+      ],
+      "tags": [
+        5,
+        17,
+        2
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 208,
+    "fields": {
+      "topic_name": "Choose a question and data; fix the out-of-sample protocol up front",
+      "total_time": 3,
+      "order": 1,
+      "chapter": 55,
+      "description": "Write down the hypothesis, data sources, validation scheme and success criteria before touching the data.",
+      "links": [
+        20,
+        5
+      ],
+      "tags": [
+        11,
+        5,
+        13
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 209,
+    "fields": {
+      "topic_name": "Build and validate with walk-forward testing and realistic costs",
+      "total_time": 10,
+      "order": 2,
+      "chapter": 55,
+      "description": "Implement features, model and backtest; report results net of costs with uncertainty estimates.",
+      "links": [
+        16,
+        15
+      ],
+      "tags": [
+        11,
+        7,
+        15,
+        13,
+        5
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 210,
+    "fields": {
+      "topic_name": "Write-up and reproducible repository",
+      "total_time": 4,
+      "order": 3,
+      "chapter": 55,
+      "description": "README, environment file, one-command reproduction and a short report with figures.",
+      "links": [
+        20
+      ],
+      "tags": [
+        11,
+        20,
+        10
+      ]
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 211,
+    "fields": {
+      "topic_name": "Five-minute walkthrough and anticipated critiques",
+      "total_time": 3,
+      "order": 4,
+      "chapter": 55,
+      "description": "Rehearse explaining the project; prepare answers on leakage, overfitting, costs and what you would do next.",
+      "links": [
+        10
+      ],
+      "tags": [
+        11,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 1,
+    "fields": {
+      "title": "Introduction to Probability, 2nd Edition",
+      "author": "Joseph K. Blitzstein, Jessica Hwang",
+      "pdf": "books/blitzstein_hwang_introduction_to_probability_2e.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 2,
+    "fields": {
+      "title": "All of Statistics: A Concise Course in Statistical Inference",
+      "author": "Larry Wasserman",
+      "pdf": "books/wasserman_all_of_statistics.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 3,
+    "fields": {
+      "title": "An Introduction to Statistical Learning with Applications in Python",
+      "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor",
+      "pdf": "books/ISLP_website.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 4,
+    "fields": {
+      "title": "Analysis of Financial Time Series, 3rd Edition",
+      "author": "Ruey S. Tsay",
+      "pdf": "books/tsay_analysis_of_financial_time_series_3e.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 5,
+    "fields": {
+      "title": "Advances in Financial Machine Learning",
+      "author": "Marcos López de Prado",
+      "pdf": "books/lopez_de_prado_advances_in_financial_machine_learning.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 6,
+    "fields": {
+      "title": "Forecasting: Principles and Practice, 3rd Edition",
+      "author": "Rob J. Hyndman, George Athanasopoulos",
+      "pdf": "books/hyndman_athanasopoulos_fpp3.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 7,
+    "fields": {
+      "title": "A Practical Guide to Quantitative Finance Interviews",
+      "author": "Xinfeng Zhou",
+      "pdf": "books/zhou_practical_guide_to_quantitative_finance_interviews.pdf",
+      "cover_image": null,
+      "type": "workbook"
+    }
+  },
+  {
+    "model": "library.book",
+    "pk": 8,
+    "fields": {
+      "title": "Introduction to Linear Algebra, 5th Edition",
+      "author": "Gilbert Strang",
+      "pdf": "books/strang_introduction_to_linear_algebra_5e.pdf",
+      "cover_image": null,
+      "type": "textbook"
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 1,
+    "fields": {
+      "name": "Probability with Blitzstein & Hwang",
+      "duration": 10,
+      "unit": "weeks",
+      "description": "Chapters 1-11 of Introduction to Probability, with Harvard Stat 110 lectures and problem sets. Builds the probability foundation that every later roadmap assumes, up to and including Markov chains.",
+      "books": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 2,
+    "fields": {
+      "name": "Statistical Inference with Wasserman",
+      "duration": 10,
+      "unit": "weeks",
+      "description": "Chapters 5-13 of All of Statistics: convergence, estimation, bootstrap, maximum likelihood, testing, Bayesian inference, decision theory and regression. The theory that quant research and interviews assume.",
+      "books": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 3,
+    "fields": {
+      "name": "Machine Learning with ISLP",
+      "duration": 9,
+      "unit": "weeks",
+      "description": "Chapters 2-6, 8, 10, 12 and 13 of An Introduction to Statistical Learning (Python edition), each with its lab, ending in a return-prediction project with walk-forward validation.",
+      "books": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 4,
+    "fields": {
+      "name": "Financial Time Series with Tsay",
+      "duration": 6,
+      "unit": "weeks",
+      "description": "Chapters 1, 2, 3, 8, 9 and 11 of Analysis of Financial Time Series, with Hyndman's free Forecasting: Principles and Practice as a gentler reference. Stationarity, ARMA, GARCH, cointegration, factor models and the Kalman filter.",
+      "books": [
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 5,
+    "fields": {
+      "name": "Financial Machine Learning with López de Prado",
+      "duration": 8,
+      "unit": "weeks",
+      "description": "Chapters 2-12 and 14-17 of Advances in Financial Machine Learning: data structures, labeling, sample weights, fractional differentiation, purged cross-validation, feature importance, bet sizing, backtest statistics and HRP. Read the time series roadmap first.",
+      "books": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 6,
+    "fields": {
+      "name": "Interview Readiness for ML Quant Roles",
+      "duration": 8,
+      "unit": "weeks",
+      "description": "The six things beyond the core books: linear algebra, timed quant problem practice, coding interviews, ML interview depth, finance vocabulary and a capstone project you can defend.",
+      "books": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 1,
+    "fields": {
+      "sequence": 1,
+      "title": "Weeks 1-2: Counting and conditioning",
+      "deliverable": "Completed problem sets for chapters 1-2 with written solutions to at least 40 exercises.",
+      "estimated_hours": 21,
+      "roadmap": 1
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 2,
+    "fields": {
+      "sequence": 2,
+      "title": "Weeks 3-4: Random variables and expectation",
+      "deliverable": "Problem sets for chapters 3-4; a one-page cheat sheet of named discrete distributions with their stories.",
+      "estimated_hours": 21,
+      "roadmap": 1
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 3,
+    "fields": {
+      "sequence": 3,
+      "title": "Weeks 5-6: Continuous distributions and moments",
+      "deliverable": "Problem sets for chapters 5-6; a notebook computing sample moments of real return series against a normal fit.",
+      "estimated_hours": 20,
+      "roadmap": 1
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 4,
+    "fields": {
+      "sequence": 4,
+      "title": "Weeks 7-8: Joint distributions and transformations",
+      "deliverable": "Problem sets for chapters 7-8; a one-page summary of covariance rules and the multivariate normal.",
+      "estimated_hours": 21,
+      "roadmap": 1
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 5,
+    "fields": {
+      "sequence": 5,
+      "title": "Weeks 9-10: Conditional expectation, limit theorems and Markov chains",
+      "deliverable": "Problem sets for chapters 9-11; a notebook that simulates the CLT and a Markov chain stationary distribution; review self-assessment.",
+      "estimated_hours": 39,
+      "roadmap": 1
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 6,
+    "fields": {
+      "sequence": 1,
+      "title": "Weeks 1-2: Convergence and the language of inference",
+      "deliverable": "Exercises for chapters 5-6; a one-page summary of estimator properties (bias, SE, MSE, consistency).",
+      "estimated_hours": 19,
+      "roadmap": 2
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 7,
+    "fields": {
+      "sequence": 2,
+      "title": "Weeks 3-4: Nonparametric estimation and the bootstrap",
+      "deliverable": "Exercises for chapters 7-8; a notebook bootstrapping the Sharpe ratio with ordinary and block bootstrap.",
+      "estimated_hours": 18,
+      "roadmap": 2
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 8,
+    "fields": {
+      "sequence": 3,
+      "title": "Weeks 5-6: Maximum likelihood",
+      "deliverable": "Derivations of MLEs and asymptotic variances for at least six distributions; chapter 9 exercises.",
+      "estimated_hours": 14,
+      "roadmap": 2
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 9,
+    "fields": {
+      "sequence": 4,
+      "title": "Weeks 7-8: Hypothesis testing and multiple testing",
+      "deliverable": "Chapter 10 exercises; a written explanation of FWER versus FDR with a worked example on strategy selection.",
+      "estimated_hours": 14,
+      "roadmap": 2
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 10,
+    "fields": {
+      "sequence": 5,
+      "title": "Weeks 9-10: Bayesian inference, decision theory and regression",
+      "deliverable": "Exercises for chapters 11-13; the regression-diagnostics notebook; the multiple-testing mini-project write-up.",
+      "estimated_hours": 44,
+      "roadmap": 2
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 11,
+    "fields": {
+      "sequence": 1,
+      "title": "Weeks 1-2: Statistical learning and regression",
+      "deliverable": "Labs 2-3 completed; chapter 3 exercises; environment ready for all later labs.",
+      "estimated_hours": 20,
+      "roadmap": 3
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 12,
+    "fields": {
+      "sequence": 2,
+      "title": "Weeks 3-4: Classification and resampling",
+      "deliverable": "Labs 4-5 completed; a working walk-forward cross-validation splitter in Python.",
+      "estimated_hours": 19,
+      "roadmap": 3
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 13,
+    "fields": {
+      "sequence": 3,
+      "title": "Weeks 5-6: Regularization and tree-based methods",
+      "deliverable": "Labs 6 and 8 completed; a notebook comparing ridge, lasso, random forest and boosting on one dataset.",
+      "estimated_hours": 20,
+      "roadmap": 3
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 14,
+    "fields": {
+      "sequence": 4,
+      "title": "Week 7: Deep learning",
+      "deliverable": "Lab 10 completed; a small PyTorch model trained on a return-prediction task.",
+      "estimated_hours": 13,
+      "roadmap": 3
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 15,
+    "fields": {
+      "sequence": 5,
+      "title": "Weeks 8-9: Unsupervised learning, multiple testing and project",
+      "deliverable": "Labs 12-13 completed; project notebook and write-up with out-of-sample results.",
+      "estimated_hours": 30,
+      "roadmap": 3
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 16,
+    "fields": {
+      "sequence": 1,
+      "title": "Weeks 1-2: Return characteristics and linear models",
+      "deliverable": "Exploration notebook on return distributions; ARMA fits with diagnostics on at least three series.",
+      "estimated_hours": 23,
+      "roadmap": 4
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 17,
+    "fields": {
+      "sequence": 2,
+      "title": "Weeks 3-4: Volatility and cointegration",
+      "deliverable": "GARCH notebook with forecast evaluation; pairs-trading backtest sketch with transaction costs.",
+      "estimated_hours": 24,
+      "roadmap": 4
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 18,
+    "fields": {
+      "sequence": 3,
+      "title": "Weeks 5-6: Factor models and state-space methods",
+      "deliverable": "PCA notebook on a stock universe; Kalman-filter notebook with a time-varying beta example.",
+      "estimated_hours": 21,
+      "roadmap": 4
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 19,
+    "fields": {
+      "sequence": 1,
+      "title": "Weeks 1-2: Data structures, labeling and sample weights",
+      "deliverable": "Notebook building dollar bars and triple-barrier labels with uniqueness-based sample weights.",
+      "estimated_hours": 23,
+      "roadmap": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 20,
+    "fields": {
+      "sequence": 2,
+      "title": "Weeks 3-4: Features, ensembles and purged cross-validation",
+      "deliverable": "Fractional-differentiation notebook; a PurgedKFold implementation with a comparison against plain k-fold.",
+      "estimated_hours": 24,
+      "roadmap": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 21,
+    "fields": {
+      "sequence": 3,
+      "title": "Weeks 5-6: Bet sizing and backtesting",
+      "deliverable": "Deflated Sharpe ratio notebook on a family of strategies; one-page summary of backtesting pitfalls.",
+      "estimated_hours": 18,
+      "roadmap": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 22,
+    "fields": {
+      "sequence": 4,
+      "title": "Weeks 7-8: Risk, allocation and capstone",
+      "deliverable": "HRP portfolio notebook; end-to-end pipeline repository with write-up.",
+      "estimated_hours": 25,
+      "roadmap": 5
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 23,
+    "fields": {
+      "sequence": 1,
+      "title": "Weeks 1-2: Linear algebra",
+      "deliverable": "Problem sets from 18.06; NumPy implementations of PCA and least squares verified against libraries.",
+      "estimated_hours": 22,
+      "roadmap": 6
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 24,
+    "fields": {
+      "sequence": 2,
+      "title": "Weeks 3-4: Quant problem practice",
+      "deliverable": "At least 150 solved problems from the green book with a log of error patterns; two recorded mock interviews.",
+      "estimated_hours": 19,
+      "roadmap": 6
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 25,
+    "fields": {
+      "sequence": 3,
+      "title": "Weeks 5-6: Coding and ML interview depth",
+      "deliverable": "60 medium LeetCode problems; three timed pandas data tasks; written two-minute explanations of five ML concepts.",
+      "estimated_hours": 26,
+      "roadmap": 6
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 26,
+    "fields": {
+      "sequence": 4,
+      "title": "Weeks 7-8: Finance basics and capstone",
+      "deliverable": "One-page finance glossary; capstone repository with README, report and rehearsed walkthrough.",
+      "estimated_hours": 28,
+      "roadmap": 6
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 1,
+    "fields": {
+      "order": 1,
+      "chapter": 1,
+      "period": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 2,
+    "fields": {
+      "order": 2,
+      "chapter": 2,
+      "period": 1
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 3,
+    "fields": {
+      "order": 1,
+      "chapter": 3,
+      "period": 2
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 4,
+    "fields": {
+      "order": 2,
+      "chapter": 4,
+      "period": 2
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 5,
+    "fields": {
+      "order": 1,
+      "chapter": 5,
+      "period": 3
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 6,
+    "fields": {
+      "order": 2,
+      "chapter": 6,
+      "period": 3
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 7,
+    "fields": {
+      "order": 1,
+      "chapter": 7,
+      "period": 4
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 8,
+    "fields": {
+      "order": 2,
+      "chapter": 8,
+      "period": 4
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 9,
+    "fields": {
+      "order": 1,
+      "chapter": 9,
+      "period": 5
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 10,
+    "fields": {
+      "order": 2,
+      "chapter": 10,
+      "period": 5
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 11,
+    "fields": {
+      "order": 3,
+      "chapter": 11,
+      "period": 5
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 12,
+    "fields": {
+      "order": 4,
+      "chapter": 12,
+      "period": 5
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 13,
+    "fields": {
+      "order": 1,
+      "chapter": 13,
+      "period": 6
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 14,
+    "fields": {
+      "order": 2,
+      "chapter": 14,
+      "period": 6
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 15,
+    "fields": {
+      "order": 1,
+      "chapter": 15,
+      "period": 7
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 16,
+    "fields": {
+      "order": 2,
+      "chapter": 16,
+      "period": 7
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 17,
+    "fields": {
+      "order": 1,
+      "chapter": 17,
+      "period": 8
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 18,
+    "fields": {
+      "order": 1,
+      "chapter": 18,
+      "period": 9
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 19,
+    "fields": {
+      "order": 1,
+      "chapter": 19,
+      "period": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 20,
+    "fields": {
+      "order": 2,
+      "chapter": 20,
+      "period": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 21,
+    "fields": {
+      "order": 3,
+      "chapter": 21,
+      "period": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 22,
+    "fields": {
+      "order": 4,
+      "chapter": 22,
+      "period": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 23,
+    "fields": {
+      "order": 1,
+      "chapter": 23,
+      "period": 11
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 24,
+    "fields": {
+      "order": 2,
+      "chapter": 24,
+      "period": 11
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 25,
+    "fields": {
+      "order": 1,
+      "chapter": 25,
+      "period": 12
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 26,
+    "fields": {
+      "order": 2,
+      "chapter": 26,
+      "period": 12
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 27,
+    "fields": {
+      "order": 1,
+      "chapter": 27,
+      "period": 13
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 28,
+    "fields": {
+      "order": 2,
+      "chapter": 28,
+      "period": 13
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 29,
+    "fields": {
+      "order": 1,
+      "chapter": 29,
+      "period": 14
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 30,
+    "fields": {
+      "order": 1,
+      "chapter": 30,
+      "period": 15
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 31,
+    "fields": {
+      "order": 2,
+      "chapter": 31,
+      "period": 15
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 32,
+    "fields": {
+      "order": 3,
+      "chapter": 32,
+      "period": 15
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 33,
+    "fields": {
+      "order": 1,
+      "chapter": 33,
+      "period": 16
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 34,
+    "fields": {
+      "order": 2,
+      "chapter": 34,
+      "period": 16
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 35,
+    "fields": {
+      "order": 1,
+      "chapter": 35,
+      "period": 17
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 36,
+    "fields": {
+      "order": 2,
+      "chapter": 36,
+      "period": 17
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 37,
+    "fields": {
+      "order": 1,
+      "chapter": 37,
+      "period": 18
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 38,
+    "fields": {
+      "order": 2,
+      "chapter": 38,
+      "period": 18
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 39,
+    "fields": {
+      "order": 1,
+      "chapter": 39,
+      "period": 19
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 40,
+    "fields": {
+      "order": 2,
+      "chapter": 40,
+      "period": 19
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 41,
+    "fields": {
+      "order": 3,
+      "chapter": 41,
+      "period": 19
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 42,
+    "fields": {
+      "order": 1,
+      "chapter": 42,
+      "period": 20
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 43,
+    "fields": {
+      "order": 2,
+      "chapter": 43,
+      "period": 20
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 44,
+    "fields": {
+      "order": 3,
+      "chapter": 44,
+      "period": 20
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 45,
+    "fields": {
+      "order": 1,
+      "chapter": 45,
+      "period": 21
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 46,
+    "fields": {
+      "order": 2,
+      "chapter": 46,
+      "period": 21
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 47,
+    "fields": {
+      "order": 1,
+      "chapter": 47,
+      "period": 22
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 48,
+    "fields": {
+      "order": 2,
+      "chapter": 48,
+      "period": 22
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 49,
+    "fields": {
+      "order": 3,
+      "chapter": 49,
+      "period": 22
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 50,
+    "fields": {
+      "order": 1,
+      "chapter": 50,
+      "period": 23
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 51,
+    "fields": {
+      "order": 1,
+      "chapter": 51,
+      "period": 24
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 52,
+    "fields": {
+      "order": 1,
+      "chapter": 52,
+      "period": 25
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 53,
+    "fields": {
+      "order": 2,
+      "chapter": 53,
+      "period": 25
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 54,
+    "fields": {
+      "order": 1,
+      "chapter": 54,
+      "period": 26
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 55,
+    "fields": {
+      "order": 2,
+      "chapter": 55,
+      "period": 26
+    }
+  }
+]

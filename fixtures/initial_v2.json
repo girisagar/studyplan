@@ -1,0 +1,1068 @@
+[
+  {
+    "model": "roadmaps.roadmap",
+    "pk": 1,
+    "fields": {
+      "name": "AI Quant Research: 12-Week Transition",
+      "description": "From senior Python market-data and trading systems engineer to quantitative ML research: statistics, microstructure, rigorous validation, PyTorch, execution-aware backtesting and a publishable portfolio.",
+      "duration": 12,
+      "unit": "week"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 1,
+    "fields": {
+      "name": "Statistics for quantitative research",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 1,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 1,
+      "title": "Statistics for quantitative research",
+      "deliverable": "Notebook: statistical analysis of returns and significance tests",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 1,
+    "fields": {
+      "period": 1,
+      "chapter": 1,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 1,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Probability distributions, expectation, variance, covariance",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Study common return distributions (normal, Student-t, empirical), moments, skew and kurtosis; estimate rolling covariance and explain fat tails.\n\nReference: https://docs.scipy.org/doc/scipy/tutorial/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 2,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Conditional probability, Bayes’ theorem, hypothesis tests",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Derive Bayes' rule and null/alternative hypotheses; use scipy.stats tests on a proposed imbalance signal and distinguish p-value from effect size.\n\nReference: https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 3,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Confidence intervals, bootstrapping and multiple testing",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Compute t-based and bootstrap confidence intervals; run many simulated tests to illustrate false discoveries and apply FDR control.\n\nReference: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 4,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Analyze market-return distributions",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Calculate log returns from public time-ordered prices; plot histogram, QQ plot, volatility clustering and summary statistics without future leakage.\n\nReference: https://docs.scipy.org/doc/scipy/tutorial/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 5,
+    "fields": {
+      "chapter": 1,
+      "topic_name": "Test whether a simple signal’s expected return differs from zero",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Form a directional-signal hypothesis; calculate next-period returns, use dependence-aware uncertainty and report effect size plus uncertainty, not just p-value.\n\nReference: https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 2,
+    "fields": {
+      "name": "Time series and market microstructure",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 2,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 2,
+      "title": "Time series and market microstructure",
+      "deliverable": "Reusable market microstructure feature library",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 2,
+    "fields": {
+      "period": 2,
+      "chapter": 2,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 6,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Stationarity, autocorrelation, heteroskedasticity",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Run ADF carefully and inspect ACF/PACF; compare raw price, returns and absolute returns and explain volatility clustering.\n\nReference: https://www.statsmodels.org/stable/tsa.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 7,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Bid/ask spread, mid-price, microprice, depth and imbalance",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Reconstruct top-of-book state; compute spread, midprice, microprice and level-1 imbalance, guarding against zero or invalid quote sizes.\n\nReference: https://lobsterdata.com/info/DataStructure.php"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 8,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Market regimes, event time vs. clock time",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Compare event-time bars with calendar-time bars; characterize low/high volatility regimes and define features strictly from available history.\n\nReference: https://www.statsmodels.org/stable/tsa.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 9,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Implement rolling volatility, ACF and order-book imbalance",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Implement time-indexed rolling realized volatility, autocorrelation and imbalance in pandas/NumPy; unit-test boundaries and timestamp ordering.\n\nReference: https://www.statsmodels.org/stable/tsa.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 10,
+    "fields": {
+      "chapter": 2,
+      "topic_name": "Visualize signal behavior across different volatility regimes",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Plot regime-conditioned distributions of imbalance, volatility and forward returns; comment on stability and sample sizes.\n\nReference: https://docs.scipy.org/doc/scipy/tutorial/stats.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 3,
+    "fields": {
+      "name": "ML fundamentals for financial prediction",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 3,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 3,
+      "title": "ML fundamentals for financial prediction",
+      "deliverable": "First out-of-sample classification benchmark",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 3,
+    "fields": {
+      "period": 3,
+      "chapter": 3,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 11,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Linear and logistic regression, regularization",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Fit regularized logistic regression to directional labels; understand coefficients, scaling, class balance and L1/L2 penalties.\n\nReference: https://scikit-learn.org/stable/supervised_learning.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 12,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Decision trees, random forests, XGBoost",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Train random forest and XGBoost on the same features; compare complexity, generalization and feature importance without touching test labels.\n\nReference: https://xgboost.readthedocs.io/en/stable/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 13,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Classification metrics and probability calibration",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Measure balanced accuracy, precision/recall, ROC-AUC and Brier score; draw reliability curves and inspect probability calibration.\n\nReference: https://scikit-learn.org/stable/modules/calibration.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 14,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Create directional labels over several prediction horizons",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Define up/down/flat labels from future midprice at fixed event and clock horizons; specify neutral thresholds and exclude incomplete trailing labels.\n\nReference: https://scikit-learn.org/stable/modules/model_evaluation.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 15,
+    "fields": {
+      "chapter": 3,
+      "topic_name": "Train a naive baseline and logistic regression model",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Train majority-class and last-move baselines plus logistic regression; evaluate on a held-out later time interval with confusion matrix.\n\nReference: https://scikit-learn.org/stable/supervised_learning.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 4,
+    "fields": {
+      "name": "Time-series validation and leakage prevention",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 4,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 4,
+      "title": "Time-series validation and leakage prevention",
+      "deliverable": "Leakage-aware research and evaluation pipeline",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 4,
+    "fields": {
+      "period": 4,
+      "chapter": 4,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 16,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Chronological train/validation/test splits",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Partition observations chronologically into train, validation and untouched test; explain why random K-fold leaks temporal structure.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 17,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Walk-forward testing, overlapping labels, purging and embargoes",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Create walk-forward folds and account for overlap between forward-return label windows using purging and optional embargo; audit index ranges.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 18,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Feature leakage, selection bias, overfitting",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: List failure cases (future rolling statistics, normalization on full data, tuned test thresholds, repeated trials) and add automated leakage assertions.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 19,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Implement a walk-forward evaluation framework",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Implement an expanding/rolling walk-forward evaluator with timestamp cutoffs, isolated preprocessing and per-fold metrics.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 20,
+    "fields": {
+      "chapter": 4,
+      "topic_name": "Compare random split against proper chronological validation",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Evaluate identical features with shuffled vs chronological splits; explain optimistic inflation and document reproducible seed and dates.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 5,
+    "fields": {
+      "name": "LOB feature research",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 5,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 5,
+      "title": "LOB feature research",
+      "deliverable": "Feature-research report with stable and unstable signals",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 5,
+    "fields": {
+      "period": 5,
+      "chapter": 5,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 21,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Order-book imbalance and microprice",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Derive and code level-1 / multi-level imbalance and microprice; test monotonicity and behavior with empty or crossed books.\n\nReference: https://lobsterdata.com/info/DataStructure.php"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 22,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Order-flow imbalance, liquidity shifts, spread and depth",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Study order-flow imbalance based on quote changes and trade events; distinguish displayed depth, cancellations and true aggressive flow.\n\nReference: https://arxiv.org/abs/1011.6402"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 23,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Feature importance, ablation and stability",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Compare permutation importance with ablation; rerun over separate chronological windows and watch for correlated or unstable features.\n\nReference: https://scikit-learn.org/stable/modules/permutation_importance.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 24,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Engineer 10–20 candidate features from available data",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Implement 10–20 timestamp-safe candidate features such as spread, depth ratios, lagged returns and rolling OFI with NaN handling.\n\nReference: https://arxiv.org/abs/1011.6402"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 25,
+    "fields": {
+      "chapter": 5,
+      "topic_name": "Run feature ablations using logistic regression and XGBoost",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Fit logistic and XGBoost baselines; remove feature groups and compare out-of-sample metrics with uncertainty intervals.\n\nReference: https://xgboost.readthedocs.io/en/stable/"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 6,
+    "fields": {
+      "name": "PyTorch for quantitative models",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 6,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 6,
+      "title": "PyTorch for quantitative models",
+      "deliverable": "Reproducible PyTorch training pipeline",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 6,
+    "fields": {
+      "period": 6,
+      "chapter": 6,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 26,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Tensors, autograd, GPU computation",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Practice tensor shapes, CPU/GPU placement and autograd; implement a differentiable linear model and inspect parameter gradients.\n\nReference: https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 27,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Optimizers, training loops, regularization",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Build explicit training/validation loops with BCE loss, Adam, weight decay, early stopping and fixed random seeds.\n\nReference: https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 28,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Dataset/DataLoader design and reproducibility",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Create a PyTorch Dataset with time-ordered feature windows and a DataLoader; prevent windows from crossing train/test boundaries.\n\nReference: https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 29,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Implement an MLP for market direction forecasting",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Train a compact MLP on normalized lagged market features; log epoch losses, validation metrics, checkpoint and runtime.\n\nReference: https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 30,
+    "fields": {
+      "chapter": 6,
+      "topic_name": "Benchmark PyTorch against your classical ML baselines",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Compare MLP to logistic and XGBoost on exactly matching data splits, features and decision metrics; include throughput and latency.\n\nReference: https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 7,
+    "fields": {
+      "name": "Sequence models and Transformers",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 7,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 7,
+      "title": "Sequence models and Transformers",
+      "deliverable": "Sequence-model benchmark, including inference latency",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 7,
+    "fields": {
+      "period": 7,
+      "chapter": 7,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 31,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "LSTM and GRU models",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Explain recurrent hidden states and gating; implement LSTM/GRU input shapes and assess overfitting on financial sequences.\n\nReference: https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 32,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Attention and positional information",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Read scaled dot-product attention and positional encodings; implement a small attention example and discuss causal masks.\n\nReference: https://arxiv.org/abs/1706.03762"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 33,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Sequence windows and nonstationary data",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Construct time-aligned lookback windows with forward prediction horizons; avoid cross-session contamination and missing-event artifacts.\n\nReference: https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 34,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Train a compact LSTM on feature sequences",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Fit a small LSTM with early stopping to sequences of microstructure features and report held-out performance.\n\nReference: https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 35,
+    "fields": {
+      "chapter": 7,
+      "topic_name": "Compare performance against XGBoost under identical splits",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Use identical folds, labels, costs and scoring to compare LSTM against XGBoost; discuss whether added complexity is justified.\n\nReference: https://xgboost.readthedocs.io/en/stable/"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 8,
+    "fields": {
+      "name": "Research rigor and statistical significance",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 8,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 8,
+      "title": "Research rigor and statistical significance",
+      "deliverable": "Research memo: which results survive rigorous evaluation?",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 8,
+    "fields": {
+      "period": 8,
+      "chapter": 8,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 36,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Block bootstrap and dependence-aware uncertainty",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Implement moving-block bootstrap of serially dependent returns or scores; vary block size and compare with naive IID intervals.\n\nReference: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 37,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Information coefficient, calibration and stability by regime",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Compute rank information coefficient and probability calibration; break down scores by volatility regime, session and month.\n\nReference: https://scikit-learn.org/stable/modules/calibration.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 38,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Multiple-hypothesis testing and realistic effect sizes",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Demonstrate the winner's curse with many noisy signals; control for multiple comparisons and report material economic effects.\n\nReference: https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_tests.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 39,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Test signal robustness across dates and instruments",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Re-evaluate a frozen signal on nonoverlapping days or instruments; report distribution of performance, not only overall average.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 40,
+    "fields": {
+      "chapter": 8,
+      "topic_name": "Compute uncertainty intervals and conduct ablation studies",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Add block-bootstrap confidence intervals around key metrics; perform feature ablations and write evidence for negative results.\n\nReference: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bootstrap.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 9,
+    "fields": {
+      "name": "Trading signal construction",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 9,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 9,
+      "title": "Trading signal construction",
+      "deliverable": "Signal policy with documented assumptions",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 9,
+    "fields": {
+      "period": 9,
+      "chapter": 9,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 41,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Forecast scores vs. trade decisions",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Separate probabilistic forecast, expected return, trading threshold and execution policy; test whether calibration is actionable.\n\nReference: https://scikit-learn.org/stable/modules/calibration.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 42,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Threshold selection and position sizing",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Choose trade threshold and capped position size using validation results; account for uncertainty, spread and forecast confidence.\n\nReference: https://scikit-learn.org/stable/modules/model_evaluation.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 43,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Turnover, holding periods and risk constraints",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Measure turnover and time in market; implement holding limits, inventory bounds and drawdown triggers without future information.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 44,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Translate model forecasts into hypothetical long/short/flat signals",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Map model probabilities to long/short/flat decisions with a no-trade band; emit timestamped signals for a paper simulator.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 45,
+    "fields": {
+      "chapter": 9,
+      "topic_name": "Choose thresholds using training/validation data only",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Tune trade thresholds only on training/validation periods; freeze all parameters before a one-time final holdout evaluation.\n\nReference: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 10,
+    "fields": {
+      "name": "Realistic event-driven backtesting",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 10,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 10,
+      "title": "Realistic event-driven backtesting",
+      "deliverable": "Trading-cost and sensitivity report",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 10,
+    "fields": {
+      "period": 10,
+      "chapter": 10,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 46,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Spread, fees, slippage, funding and adverse selection",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Model bid-ask crossing, commissions, tick sizes, funding when relevant, slippage and adverse selection; express PnL net of costs.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 47,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Latency, fills, queue position and market impact",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Distinguish quoted from executable fills; simulate latency and conservative queue assumptions; avoid filling at unseen future prices.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 48,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Sharpe, drawdown, turnover and capacity",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Calculate annualized Sharpe with correct sampling, max drawdown, turnover and capacity sensitivity; discuss unstable annualization.\n\nReference: https://scikit-learn.org/stable/modules/model_evaluation.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 49,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Develop a conservative event-driven simulator",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Build a timestamp-driven market-data/event/order/fill loop using public data and explicitly documented execution assumptions.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 50,
+    "fields": {
+      "chapter": 10,
+      "topic_name": "Report net results under pessimistic cost assumptions",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Sweep high fees, slippage and latency assumptions; tabulate net PnL, drawdown and break-even cost, including losing scenarios.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 11,
+    "fields": {
+      "name": "LLMs and AI for quant research",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 11,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 11,
+      "title": "LLMs and AI for quant research",
+      "deliverable": "Small multimodal research experiment, or a documented failure analysis",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 11,
+    "fields": {
+      "period": 11,
+      "chapter": 11,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 51,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Financial text embeddings and retrieval",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Learn embeddings and semantic retrieval; index public SEC filing passages and test query retrieval with source metadata.\n\nReference: https://huggingface.co/docs/transformers/index"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 52,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "LLM evaluation, timestamps and point-in-time availability",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Define point-in-time availability using filing acceptance and publication timestamps; create an LLM evaluation set that checks citation correctness and hindsight leakage.\n\nReference: https://www.sec.gov/about/developer-resources"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 53,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Combining text signals with numeric market features",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Join lagged text signals to numeric features using publication and market timestamps; evaluate incremental predictive value after transaction costs.\n\nReference: https://www.sec.gov/about/developer-resources"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 54,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Prototype a public-news or filing-based signal experiment",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Retrieve public company filings and build a small labeled text-event dataset; record source URLs, release times and rate-limit compliance.\n\nReference: https://www.sec.gov/about/developer-resources"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 55,
+    "fields": {
+      "chapter": 11,
+      "topic_name": "Test whether text features add incremental out-of-sample value",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Compare numeric-only and numeric-plus-text models on later unseen dates; include ablation and point-in-time audit.\n\nReference: https://huggingface.co/ProsusAI/finbert"
+    }
+  },
+  {
+    "model": "curriculum.chapter",
+    "pk": 12,
+    "fields": {
+      "name": "Publication and interview preparation",
+      "description": ""
+    }
+  },
+  {
+    "model": "roadmaps.roadmapperiod",
+    "pk": 12,
+    "fields": {
+      "roadmap": 1,
+      "sequence": 12,
+      "title": "Publication and interview preparation",
+      "deliverable": "Portfolio, technical write-up and quant research interview narrative",
+      "estimated_hours": 10
+    }
+  },
+  {
+    "model": "roadmaps.periodchapter",
+    "pk": 12,
+    "fields": {
+      "period": 12,
+      "chapter": 12,
+      "order": 1
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 56,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Research reports and experiment reproducibility",
+      "total_time": 120,
+      "order": 1,
+      "tags": "1",
+      "description": "Study guide: Write a research report with hypothesis, data provenance, validation, baselines, experiment log, results, uncertainty and limitations.\n\nReference: https://www.cs.cmu.edu/~jrs/sins.html"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 57,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Quant probability and statistics interview topics",
+      "total_time": 120,
+      "order": 2,
+      "tags": "1",
+      "description": "Study guide: Practice probability, conditional expectation, confidence intervals, bias-variance, time series and mental estimation using quantitative examples.\n\nReference: https://www.statlearning.com/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 58,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Explaining model limitations and business relevance",
+      "total_time": 120,
+      "order": 3,
+      "tags": "1",
+      "description": "Study guide: Explain why a signal may fail in production: regime shift, leakage, execution latency, adverse selection, crowding and data licensing.\n\nReference: https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 59,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Prepare polished GitHub repository and research report",
+      "total_time": 180,
+      "order": 4,
+      "tags": "2",
+      "description": "Study guide: Publish sanitized code, environment lockfile, reproducible run commands, tables and model cards; exclude employer code or restricted market data.\n\nReference: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-readmes"
+    }
+  },
+  {
+    "model": "curriculum.topic",
+    "pk": 60,
+    "fields": {
+      "chapter": 12,
+      "topic_name": "Practice research defense and apply to suitable roles",
+      "total_time": 180,
+      "order": 5,
+      "tags": "2",
+      "description": "Study guide: Prepare a 10-minute research defense: rationale, ablations, negative outcomes, execution assumptions and next experiments; rehearse critiques.\n\nReference: https://www.cs.cmu.edu/~jrs/sins.html"
+    }
+  }
+]

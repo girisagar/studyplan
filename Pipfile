@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==6.1.3"
+black = "*"
+django-ckeditor-5 = "*"
+Pillow = "*"
+ipython = "*"
+nh3 = "<0.4,>=0.3"
+django-ninja = "==1.8.0"
+django-ninja-jwt = {extras = ["crypto"], version = "==5.4.5"}
+django-cors-headers = "==4.9.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

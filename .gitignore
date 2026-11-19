@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments (pipenv keeps its venv outside the project)
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# Django: local database and its backups, uploads, collected static
+db.sqlite3
+db.sqlite3-journal
+db.sqlite3.bak-*
+media/
+staticfiles/
+
+# Archive of the removed server-rendered frontend (local reference only)
+legacy-html-frontend.tar.gz
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
