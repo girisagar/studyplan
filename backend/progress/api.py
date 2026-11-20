@@ -13,9 +13,16 @@ from roadmaps.services import (
     study_stats,
     weekly_completions,
 )
-from .models import UserRoadMap, course_progress, roadmap_progress
-from .schemas import CompletionIn, CompletionOut, EnrollmentOut, RoadMapProgressOut
-from .services import set_completion
+from .models import UserRoadMap, UserTopicProgress, course_progress, roadmap_progress
+from .schemas import (
+    CompletionIn,
+    CompletionOut,
+    CompletionRecordOut,
+    EnrollmentIn,
+    EnrollmentOut,
+    RoadMapProgressOut,
+)
+from .services import not_future, set_completion
 
 router = Router(tags=["progress"])
 
@@ -31,13 +38,21 @@ def list_enrollments(request):
 
 
 @router.put("/roadmaps/{roadmap_id}/enrollment", response=EnrollmentOut)
-def enroll(request, roadmap_id: int):
+def enroll(request, roadmap_id: int, payload: EnrollmentIn | None = None):
     """Follow a roadmap. Idempotent: following again keeps the original start."""
     roadmap = get_object_or_404(RoadMap, pk=roadmap_id)
+    started_at = not_future(payload.started_at if payload else None)
     enrollment, _ = UserRoadMap.objects.get_or_create(
-        user=request.user, roadmap=roadmap
+        user=request.user, roadmap=roadmap, defaults={"started_at": started_at}
     )
     return enrollment
+
+
+@router.get("/completions", response=list[CompletionRecordOut])
+def list_completions(request):
+    """Every topic the user has completed (shared by all roadmaps containing
+    it), for clients that keep progress offline."""
+    return UserTopicProgress.objects.filter(user=request.user).order_by("completed_at")
 
 
 @router.get("/roadmaps", response=list[RoadMapProgressOut])
@@ -59,7 +74,9 @@ def set_topic_completion(
     """Set (not toggle) a topic's completion. 404 unless the user follows the
     roadmap and the topic is part of it. Returns the roadmap's progress and the
     topic's course progress."""
-    return set_completion(request.user, roadmap_id, topic_id, payload.completed)
+    return set_completion(
+        request.user, roadmap_id, topic_id, payload.completed, payload.completed_at
+    )
 
 
 @router.get("/dashboard", response=DashboardOut)

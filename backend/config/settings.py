@@ -112,12 +112,13 @@ NINJA_JWT = {
 }
 
 # A separately hosted frontend calls the API cross-origin: list its origin(s) in
-# DJANGO_CORS_ALLOWED_ORIGINS (comma-separated, e.g. http://localhost:3000).
+# DJANGO_CORS_ALLOWED_ORIGINS (comma-separated, e.g. http://localhost:8083). Not
+# needed when the frontend proxies /api and /media (the Vite dev server does).
 # Bearer tokens are not cookies, so credentials are not allowed cross-origin.
 CORS_ALLOWED_ORIGINS = [
     o for o in os.environ.get("DJANGO_CORS_ALLOWED_ORIGINS", "").split(",") if o
 ]
-CORS_URLS_REGEX = r"^/api/.*$"
+CORS_URLS_REGEX = r"^/(api|media)/.*$"  # media: offline file downloads
 
 # HTTPS / proxy settings. Behind a TLS-terminating proxy or tunnel (nginx, Caddy,
 # ngrok, Cloudflare Tunnel), set DJANGO_BEHIND_PROXY=1 so Django trusts

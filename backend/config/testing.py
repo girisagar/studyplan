@@ -54,6 +54,7 @@ class APITestCase(TestCase):
 
     def send(self, method, path, data=None, user=None):
         headers = self.auth(user) if user else {}
-        return getattr(self.client, method)(
-            f"/api{path}", data=data, content_type="application/json", **headers
+        body = (
+            {} if data is None else {"data": data, "content_type": "application/json"}
         )
+        return getattr(self.client, method)(f"/api{path}", **body, **headers)

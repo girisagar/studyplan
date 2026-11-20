@@ -99,3 +99,47 @@ class ProgressAPITests(APITestCase):
         self.assertEqual(data["recent"][0]["roadmap_id"], self.roadmap.pk)
         self.assertEqual(len(data["weeks"]), 8)
         self.assertEqual(data["weeks"][-1]["count"], 1)
+
+
+class OfflineSyncAPITests(APITestCase):
+    def test_completions_list_is_per_user(self):
+        UserTopicProgress.objects.create(user=self.user, topic=self.a)
+        UserTopicProgress.objects.create(user=self.other, topic=self.b)
+        data = self.get("/progress/completions", self.user).json()
+        self.assertEqual([r["topic_id"] for r in data], [self.a.pk])
+        self.assertIn("completed_at", data[0])
+        self.assertEqual(self.get("/progress/completions").status_code, 401)
+
+    def test_completion_keeps_client_time_but_not_future(self):
+        from datetime import datetime, timedelta, timezone as tz
+
+        UserRoadMap.objects.create(user=self.user, roadmap=self.roadmap)
+        path = f"/progress/roadmaps/{self.roadmap.pk}/topics/{{}}/completion"
+        past = datetime(2026, 11, 1, 12, 0, tzinfo=tz.utc)
+        self.send(
+            "put",
+            path.format(self.a.pk),
+            {"completed": True, "completed_at": past.isoformat()},
+            user=self.user,
+        )
+        self.assertEqual(UserTopicProgress.objects.get(topic=self.a).completed_at, past)
+        future = datetime.now(tz.utc) + timedelta(days=3)
+        self.send(
+            "put",
+            path.format(self.b.pk),
+            {"completed": True, "completed_at": future.isoformat()},
+            user=self.user,
+        )
+        self.assertLess(
+            UserTopicProgress.objects.get(topic=self.b).completed_at, future
+        )
+
+    def test_enroll_with_and_without_body(self):
+        path = f"/progress/roadmaps/{self.roadmap.pk}/enrollment"
+        data = self.send(
+            "put", path, {"started_at": "2026-10-01T09:00:00Z"}, user=self.user
+        ).json()
+        self.assertTrue(data["started_at"].startswith("2026-10-01"))
+        self.assertEqual(
+            self.client.put(f"/api{path}", **self.auth(self.other)).status_code, 200
+        )
